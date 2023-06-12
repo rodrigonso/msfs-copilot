@@ -13,9 +13,9 @@ def prepare_to_JSONL(values, section_name):
         if idx == 0:
             curr['prompt'] = section_name # ask for title of the current checklist
             curr['completion'] = item['q'] # responds the prompt to the first question
-        elif idx == len(values):
+        elif idx == (len(values) - 1):
             curr['prompt'] = values[idx]['a'] # ask for the last answer of the current checklist
-            curr['completion'] = section_name + 'COMPLETED' # responds with checklist completion
+            curr['completion'] = section_name + ' COMPLETED' # responds with checklist completion
         else:
             curr['prompt'] = values[idx -1]['a'] # ask for the last answer we gave
             curr['completion'] = item['q'] # responds with the next checklist item
@@ -67,46 +67,51 @@ def format_data_from_text(extracted_text, sections):
     return section
 
 def main():
-    files = ["./test.pdf", "./test2.pdf", "./test3.pdf", "./test4.pdf", "./test5.pdf"]
-    pdf_file = pdfplumber.open('./test2.pdf')
+    path = './checklists/'
+    files = ["FSX B-737-800.pdf", "FSX Beech Baron 58.pdf", "FSX Beech King Air 350.pdf", "FSX B-747-400.pdf", "FSX Bombardier CRJ700.pdf"]
 
-    sections = []
-    for p, char in zip(pdf_file.pages, pdf_file.chars):
+    training_data = []
+    final_training_data = []
 
-        width = p.width
-        height = p.height
+    for file in files:
 
-        first_half_x = width / 2
-        second_half_x = width - first_half_x
+        pdf_file = pdfplumber.open(f"{path}{file}")
 
-        # to make it easier to extract the data, we split the pdf page into two halves along the y axis and extract page by page
-        cropped = p.crop((0, 0, first_half_x, height))
-        cropped2 = p.crop((second_half_x, 0, width, height))
+        sections = []
+        for p, char in zip(pdf_file.pages, pdf_file.chars):
 
-        # skip first page since does not contain actual useful data (apart from aircraft info which might be useful later)
-        if p.page_number < 2:
-            continue
+            width = p.width
+            height = p.height
 
-        # extract left half of page
-        extracted = cropped.extract_text_lines()
+            first_half_x = width / 2
+            second_half_x = width - first_half_x
 
-        #extract right half of page
-        extracted2 = cropped2.extract_text_lines()
+            # to make it easier to extract the data, we split the pdf page into two halves along the y axis and extract page by page
+            cropped = p.crop((0, 0, first_half_x, height))
+            cropped2 = p.crop((second_half_x, 0, width, height))
 
-        format_data_from_text(extracted, sections)
-        format_data_from_text(extracted2, sections)
+            # skip first page since does not contain actual useful data (apart from aircraft info which might be useful later)
+            if p.page_number < 2:
+                continue
 
-    pdf_file.close()
+            # extract left half of page
+            extracted = cropped.extract_text_lines()
 
-    data_for_training = []
-    for section in sections:
-        data_for_training.append(prepare_to_JSONL(section['values'], section['name']))
+            #extract right half of page
+            extracted2 = cropped2.extract_text_lines()
 
+            format_data_from_text(extracted, sections)
+            format_data_from_text(extracted2, sections)
+
+        pdf_file.close()
+
+        for section in sections:
+            training_data.append({'aircraft': file, 'data': prepare_to_JSONL(section['values'], section['name'])})
+        
     with open('training.json', "w") as text_file:
-        for item in data_for_training:
-            for line in item:
-                text_file.write(json.dumps(line))
-                text_file.write("\n")
+        for item in training_data:
+            text_file.write(json.dumps(item))
+            text_file.write("\n")
         
 
 if __name__ == "__main__":
