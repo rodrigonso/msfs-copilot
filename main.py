@@ -1,6 +1,8 @@
 import re
 import nltk
 from PyPDF2 import PdfReader
+import pdfplumber
+import math
 
 def read_PDF(file):
     reader = PdfReader(file)
@@ -48,72 +50,6 @@ def is_valid_token(token):
 def is_upper(string):
     return string.isupper() and string.isalpha()
 
-# def tokenize_Text(parsed):
-
-    res = []
-
-    for line in parsed:
-        # print(parsed)
-        res_line = {"q": "", "a": ""}
-
-        l = 1
-        r = 2
-
-        # l = 1, r = 2
-        # hey   there
-        #   ^&
-        has_seen_whitespace = False
-        while (r < len(line) or l < r):
-            left = line[l]
-            right = line[r]
-
-            if (not ' ' in right):
-                # print(left, right)
-                if has_seen_whitespace:
-                    try:
-                        res_line['q'] = line[0:(l+2)] # grabs the substring before whitespace
-                        res_line['a'] = line[r:len(line)] # grabs the substring after whitespace
-                    except:
-                        print("soemthing went wrong", l, r)
-                    break
-                else:
-                    l += 1
-                    r += 1
-
-            if (not ' ' in left) and (' ' in right):
-                r += 1
-
-                regex = "^(?=.*[A-Z])?(?=.*[0-9])?(?=.*[!@#$%^&*()_+])?$"
-                curr_line = line[r:len(line)]
-                is_of_interest = bool(re.search(r'\d', curr_line)) or is_upper(curr_line)
-
-                print(is_of_interest, curr_line, r-l)
-                has_seen_whitespace = (r - l >= 2) if True else False
-
-        res.append(res_line)
-        # print(res_line)
-    # print(res)
-
-def split_q_and_a(parsed):
-    res = []
-
-    for idx, line in enumerate(parsed):
-        tokens = nltk.word_tokenize(line)
-        
-        q = ""
-        a = ""
-
-        for tk in tokens:
-            regex = "^(?!.*[0-9])(?!.*[A-Z].*[A-Z].*[A-Z]).*$"
-            is_q = bool(re.search(regex, tk))
-            # print(tk, '-',is_q)
-            if is_q:
-                q += tk + " "
-            else:
-                a += tk + " "
-        res.append({'q': q.strip(), 'a':a.strip()})
-    return res
-
 
 def rearrenge_tokens(values, section_name):
     res = []
@@ -134,30 +70,73 @@ def rearrenge_tokens(values, section_name):
         res.append(curr)
     return res
 
+def extract_title(text):
+    title = ''
+    for ch in text['chars']:
+                if ch['non_stroking_color'] == [1, 0, 0]:
+                    # save the current title somewhere
+                    is_title = True
+                    title = text['text']
+                    break
+    return title
+
+def extract_key_values(text):
+    regex = "^[A-Z0-9!@#$%^&*()_+\\-=\\[\\]{};':\"\\\\|,.<>\\/?]*$"
+    tokenized = nltk.word_tokenize(text['text'])
+
+    q = ''
+    a = ''
+    for w in tokenized:
+        if bool(re.search(regex, w)):
+            a += w + " "
+        else:
+            q += w + " "
+
+    return {'q': q, 'a': a}
 
 def main():
     files = ["./test.pdf", "./test2.pdf", "./test3.pdf", "./test4.pdf", "./test5.pdf"]
+    pdf_file = pdfplumber.open('./test2.pdf')
 
-    raw_data = read_PDF(files[1])
-    reader = PdfReader(files[1])
 
-    raw_data = []
-    checklists = []
-    total_of_data = 0
+    sections = []
+    for p, char in zip(pdf_file.pages, pdf_file.chars):
+        # texts = p.extract_tables({'vertical_strategy': 'text', 'horizontal_strategy': 'text', "text_tolerance": 10})
+        width = p.width
+        height = p.height
 
-    for page in reader.pages:
-        raw_data.append(page.extract_text())
+        first_half_x = width / 2
+        first_half_y = height / 2
 
-    for data in raw_data:
-        sections = parse_PDF(data)
-        for section in sections:
-            formatted = split_q_and_a(section['values'])
-            res = rearrenge_tokens(formatted, section['name'])
+                        #x0, top, x1, bottom
+        cropped = p.crop((0, 0, first_half_x, height))
 
-            checklists.append({'section': section['name'], 'values': res})
-            total_of_data += len(res)
 
-    print(total_of_data)
+        # skip first page since does not contain actual ch
+        if p.page_number < 2:
+            continue
+
+        extracted = cropped.extract_text_lines()
+
+        section = {'name': '', 'values': []}
+        prev_title = ''
+        curr_title = ''
+        for line in extracted:
+            
+            title = extract_title(line)
+            if title:
+                curr_title = title
+                section = {'name': curr_title, 'values': []}
+            else:
+                if prev_title != curr_title:
+                    sections.append(section)
+                    prev_title = curr_title
+
+                key_val = extract_key_values(line)
+                section['values'].append(key_val)
+
+        # sections.append(section)
+    
 
 if __name__ == "__main__":
     main()
