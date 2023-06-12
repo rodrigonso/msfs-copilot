@@ -4,7 +4,7 @@ import pdfplumber
 import math
 import json
 
-def prepare_to_JSONL(values, section_name):
+def prepare_to_JSONL(values, section_name, file_name):
     res = []
 
     for idx, item in enumerate(values):
@@ -21,6 +21,8 @@ def prepare_to_JSONL(values, section_name):
             curr['completion'] = item['q'] # responds with the next checklist item
 
         res.append(curr)
+
+    res.insert(0, {'prompt': file_name, 'completion': res[0]['prompt']})
     return res
 
 def extract_title(text):
@@ -68,7 +70,7 @@ def format_data_from_text(extracted_text, sections):
 
 def main():
     path = './checklists/'
-    files = ["FSX B-737-800.pdf", "FSX Beech Baron 58.pdf", "FSX Beech King Air 350.pdf", "FSX B-747-400.pdf", "FSX Bombardier CRJ700.pdf"]
+    files = ["Boeing 737-800.pdf", "Beech Baron 58.pdf", "Beech King Air 350.pdf", "Boeing 747-400.pdf", "Bombardier CRJ700.pdf"]
 
     training_data = []
     final_training_data = []
@@ -106,12 +108,17 @@ def main():
         pdf_file.close()
 
         for section in sections:
-            training_data.append({'aircraft': file, 'data': prepare_to_JSONL(section['values'], section['name'])})
+            training_data.append({'aircraft': file, 'data': prepare_to_JSONL(section['values'], section['name'], file)})
         
-    with open('training.json', "w") as text_file:
+    with open('training.jsonl', "w") as text_file:
         for item in training_data:
-            text_file.write(json.dumps(item))
-            text_file.write("\n")
+            # text_file.write(json.dumps(item))
+            # text_file.write("\n")
+            for plane in item:
+                for i in item['data']:
+                    text_file.write(json.dumps(i))
+                    text_file.write("\n")
+
         
 
 if __name__ == "__main__":

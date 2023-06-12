@@ -1,0 +1,1363 @@
+{"prompt":"\/ off  ->","completion":" Flight controls "}
+{"prompt":"off  ->","completion":" Master Caution Display "}
+{"prompt":"1200  ->","completion":" Taxi To Ramp COMPLETED"}
+{"prompt":"set  ->","completion":" Throttle "}
+{"prompt":"100 kias  ->","completion":" Touchdown "}
+{"prompt":"( atis , )  ->","completion":" Descent Checklist COMPLETED"}
+{"prompt":"tuned set  ->","completion":" Autopilot and "}
+{"prompt":"on  ->","completion":" Heading Indicator\/Altimeters "}
+{"prompt":"beech baron 58.pdf ->","completion":" Before Take-off Checklist"}
+{"prompt":"as required  ->","completion":" Transponder "}
+{"prompt":"set  ->","completion":" Throttle "}
+{"prompt":"= 90 kias ( )  ->","completion":" Pitch degrees "}
+{"prompt":"\/ off  ->","completion":" Hydraulic Pump Switches "}
+{"prompt":" ->","completion":" Landing Gear "}
+{"prompt":"up  ->","completion":" Propeller "}
+{"prompt":"check  ->","completion":" Cowl Flaps "}
+{"prompt":"check off  ->","completion":" Engine Instruments "}
+{"prompt":"feather  ->","completion":" Beacon "}
+{"prompt":"off  ->","completion":" No Smoking Sign "}
+{"prompt":"boeing 747-400.pdf ->","completion":" Startup Checklist"}
+{"prompt":"before taxi checklist ->","completion":" Nav Lights "}
+{"prompt":"on  ->","completion":" Anti-ice "}
+{"prompt":"3  ->","completion":" Before Take-off Checklist COMPLETED"}
+{"prompt":"check  ->","completion":" Engine Temperatures at cruise cond "}
+{"prompt":"beech baron 58.pdf ->","completion":" Taxi To Ramp"}
+{"prompt":"as required  ->","completion":" Transponder "}
+{"prompt":"60 :  ->","completion":" Spoilers "}
+{"prompt":": 30 full  ->","completion":" Final Glideslope Descent "}
+{"prompt":"verify armed  ->","completion":" Propeller "}
+{"prompt":"open  ->","completion":" Flaps "}
+{"prompt":"taxi checklist ->","completion":" Parking Brake "}
+{"prompt":"60 :  ->","completion":" Spoilers "}
+{"prompt":"off  ->","completion":" Fuel Pump Switches "}
+{"prompt":"10000 ' 280 kias  ->","completion":" Climb-out Checklist COMPLETED"}
+{"prompt":"tuned set  ->","completion":" Autopilot and "}
+{"prompt":"check up  ->","completion":" Fuel Balance "}
+{"prompt":"beech king air 350.pdf ->","completion":" Approach Checklist"}
+{"prompt":"240 kias  ->","completion":" Fuel Quantities and Balance "}
+{"prompt":" ->","completion":" Annunciator Lights "}
+{"prompt":"off  ->","completion":" Repeat for right Engine "}
+{"prompt":"test\/check  ->","completion":" Anti-ice Annunciators "}
+{"prompt":"off  ->","completion":" Gen "}
+{"prompt":"boeing 737-800.pdf ->","completion":" Before Take-off Checklist"}
+{"prompt":"beech baron 58.pdf ->","completion":" Climb-out Checklist"}
+{"prompt":"off  ->","completion":" Battery Switch "}
+{"prompt":"check  ->","completion":" increasing as incr "}
+{"prompt":",  ->","completion":" kts Cancel Reverse Thrust "}
+{"prompt":"boeing 737-800.pdf ->","completion":" Approach Checklist"}
+{"prompt":"-700  ->","completion":" Flaps "}
+{"prompt":"\/ . on  ->","completion":" Pre-Start Checklist COMPLETED"}
+{"prompt":"beech baron 58.pdf ->","completion":" Climb-out Checklist"}
+{"prompt":"climb-out checklist ->","completion":" Throttle "}
+{"prompt":"shutdown checklist ->","completion":" Parking Brake "}
+{"prompt":"5  ->","completion":" Approach Checklist COMPLETED"}
+{"prompt":"off  ->","completion":" Flaps "}
+{"prompt":"start ( )  ->","completion":" Right Oil Pressure 10psi "}
+{"prompt":"descent checklist ->","completion":" Atis\/Airport Information "}
+{"prompt":"on  ->","completion":" At Fuel Flow "}
+{"prompt":"off  ->","completion":" Strobe Light "}
+{"prompt":", off  ->","completion":" Throttle cracked "}
+{"prompt":"idle  ->","completion":" Elevator Trim for takeoff "}
+{"prompt":"off  ->","completion":" Nav Light "}
+{"prompt":"arm  ->","completion":" Flaps Lever Position "}
+{"prompt":"check open  ->","completion":" Throttle "}
+{"prompt":"on  ->","completion":" De-Ice "}
+{"prompt":"idle  ->","completion":" Passenger Signs "}
+{"prompt":"boeing 737-800.pdf ->","completion":" Securing Aircraft"}
+{"prompt":"160-170 kias 80  ->","completion":" Propeller "}
+{"prompt":"6  ->","completion":" Securing Aircraft COMPLETED"}
+{"prompt":" ->","completion":" Fuel Pump Switches "}
+{"prompt":"on as required  ->","completion":" Autobrake "}
+{"prompt":"( v1 , vr , v2 ) check  ->","completion":" Nav Equipment "}
+{"prompt":"check  ->","completion":" Fuel Quantity "}
+{"prompt":"( atis , )  ->","completion":" Anti-ice Switch "}
+{"prompt":"on  ->","completion":" No Smoking Sign "}
+{"prompt":"check  ->","completion":" Take-off Checklist COMPLETED"}
+{"prompt":"idle  ->","completion":" Propeller "}
+{"prompt":"n2 > 20 % check on  ->","completion":" increasing as incr "}
+{"prompt":". 20  ->","completion":" Transponder "}
+{"prompt":"as required  ->","completion":" Transponder "}
+{"prompt":"off  ->","completion":" Engine Instruments "}
+{"prompt":"30 full  ->","completion":" Final Glideslope Descent "}
+{"prompt":"35 000  ->","completion":" Engine+Instruments "}
+{"prompt":"on as required  ->","completion":" Autobrake "}
+{"prompt":"95 kias  ->","completion":" Touchdown "}
+{"prompt":" ->","completion":" Starter Switch "}
+{"prompt":"check down  ->","completion":" Flaps "}
+{"prompt":"take-off checklist ->","completion":" Smoothly increase thrust to let spool up "}
+{"prompt":"on  ->","completion":" Repeat for left engine "}
+{"prompt":"set  ->","completion":" Throttle "}
+{"prompt":"as required  ->","completion":" Descent Speed to mach "}
+{"prompt":"9000 160 kias 2350 rpm 20  ->","completion":" Fuel Flow Mixture "}
+{"prompt":"up  ->","completion":" Spoiler "}
+{"prompt":"hi  ->","completion":" until fuel flow peaks then "}
+{"prompt":"\/ as required  ->","completion":" Engine+Instruments "}
+{"prompt":"off spd  ->","completion":" Landing Speed "}
+{"prompt":"check  ->","completion":" Altimeter "}
+{"prompt":"off  ->","completion":" Pitot Heat De-Ice "}
+{"prompt":"3  ->","completion":" Before Take-off Checklist COMPLETED"}
+{"prompt":"\/ off  ->","completion":" Taxi Lights "}
+{"prompt":"securing aircraft ->","completion":" Parking Brake Verify "}
+{"prompt":"off  ->","completion":" Flaps "}
+{"prompt":"5-10  ->","completion":" Speed Establish "}
+{"prompt":"check  ->","completion":" Radios and "}
+{"prompt":"off  ->","completion":" Landing Lights "}
+{"prompt":"6  ->","completion":" Shutdown Checklist COMPLETED"}
+{"prompt":"fl180 0.67 ( 330 kias )  ->","completion":" mach "}
+{"prompt":"130 kias 2500 rpm 21  ->","completion":" Fuel Flow Mixture "}
+{"prompt":"off spd  ->","completion":" Landing Speed "}
+{"prompt":"clear  ->","completion":" Throttle "}
+{"prompt":"as required  ->","completion":" Speed Establish Torque "}
+{"prompt":"verify off  ->","completion":" Approach Checklist COMPLETED"}
+{"prompt":"on  ->","completion":" Pitot Heat "}
+{"prompt":"bombardier crj700.pdf ->","completion":" Before Taxi Checklist"}
+{"prompt":"cruise checklist (above fl 180) ->","completion":" At Transition Altitude set Altimeter to 1013mb "}
+{"prompt":"beech baron 58.pdf ->","completion":" Before Take-off Checklist"}
+{"prompt":"as required  ->","completion":" Transponder "}
+{"prompt":"on  ->","completion":" Taxi Lights "}
+{"prompt":"apu on \/ check volts  ->","completion":" Fuel Quantity "}
+{"prompt":" ->","completion":" Loadmeter Voltmeter for "}
+{"prompt":"140 kias  ->","completion":" Parking Brake "}
+{"prompt":"batt off  ->","completion":" Shutdown Checklist COMPLETED"}
+{"prompt":"set  ->","completion":" Flaps "}
+{"prompt":"release  ->","completion":" descision "}
+{"prompt":"off  ->","completion":" Flaps "}
+{"prompt":" ->","completion":" Before Taxi Checklist COMPLETED"}
+{"prompt":"open  ->","completion":" Flaps "}
+{"prompt":"n2 > 20 % 1 on  ->","completion":" Fuel Flow "}
+{"prompt":"as required  ->","completion":" Engine Instruments "}
+{"prompt":"on  ->","completion":" Landing Lights "}
+{"prompt":"6  ->","completion":" Securing Aircraft COMPLETED"}
+{"prompt":"idle  ->","completion":" Engine Area "}
+{"prompt":"off  ->","completion":" Panel Light "}
+{"prompt":"off  ->","completion":" Engine Instruments "}
+{"prompt":"before take-off checklist ->","completion":" Parking Brake "}
+{"prompt":"idle  ->","completion":" All Switches Verify "}
+{"prompt":"idle  ->","completion":" Engine Area "}
+{"prompt":"= 150 kias ( )  ->","completion":" Pitch deg nose up "}
+{"prompt":"check  ->","completion":" Flight controls "}
+{"prompt":"high rpm  ->","completion":" Fuel Flow Mixture "}
+{"prompt":"check  ->","completion":" Landing Lights "}
+{"prompt":"up  ->","completion":" Spoiler "}
+{"prompt":" ->","completion":" Landing Gear "}
+{"prompt":". fuel cutoff ( )  ->","completion":" Landing Gear Lever "}
+{"prompt":"\/ off  ->","completion":" Taxi Lights "}
+{"prompt":"220-240 kias 85  ->","completion":" Propeller "}
+{"prompt":"open  ->","completion":" Elevator Trim "}
+{"prompt":"takeoff setting  ->","completion":" Avionics\/Radios "}
+{"prompt":"on  ->","completion":" Right Alternator Annunciator "}
+{"prompt":"check down  ->","completion":" Cowl Flaps "}
+{"prompt":"check  ->","completion":" Fuel Quantity "}
+{"prompt":"release  ->","completion":" descision "}
+{"prompt":"boeing 747-400.pdf ->","completion":" Startup Checklist"}
+{"prompt":"landing checklist ->","completion":" Landing Gear "}
+{"prompt":"check  ->","completion":" Fuel Quantity "}
+{"prompt":"descent checklist ->","completion":" Atis\/Airport Information "}
+{"prompt":"v1 = 165 kias ( )  ->","completion":" Vr rotate "}
+{"prompt":"20  ->","completion":" Speed Establish "}
+{"prompt":"check down  ->","completion":" Flaps "}
+{"prompt":"closed  ->","completion":" Engine Temperatures at cruise cond "}
+{"prompt":"check down , 3 green  ->","completion":" Autopilot "}
+{"prompt":"off  ->","completion":" Nav Lights "}
+{"prompt":" ->","completion":" Before Taxi Checklist COMPLETED"}
+{"prompt":"beech king air 350.pdf ->","completion":" Pre-Start Checklist"}
+{"prompt":"set  ->","completion":" Throttle "}
+{"prompt":"off  ->","completion":" Avionics Master Switch "}
+{"prompt":"( atis , )  ->","completion":" Descent Checklist COMPLETED"}
+{"prompt":"1200  ->","completion":" Taxi To Ramp COMPLETED"}
+{"prompt":"check  ->","completion":" Altimeter "}
+{"prompt":"boeing 737-800.pdf ->","completion":" Taxi Checklist"}
+{"prompt":"taxi to ramp ->","completion":" Strobe Light "}
+{"prompt":"off  ->","completion":" Nav Lights "}
+{"prompt":"check  ->","completion":" Flight controls "}
+{"prompt":"off  ->","completion":" Anti-Ice "}
+{"prompt":"135 kias  ->","completion":" After touchdown Apply Reverse Thrust at "}
+{"prompt":"set  ->","completion":" Autofeather "}
+{"prompt":"4  ->","completion":" Cruise Checklist (above FL 180) COMPLETED"}
+{"prompt":"\/ . on  ->","completion":" Right Ignition and Engine Start Switch hold until engine starts "}
+{"prompt":"20  ->","completion":" Speed Establish "}
+{"prompt":"before taxi checklist ->","completion":" Nav Lights "}
+{"prompt":"full to\/ga  ->","completion":" Brakes "}
+{"prompt":"on ( )  ->","completion":" Right and Turbine "}
+{"prompt":"lo  ->","completion":" Fuel Flow Mixture "}
+{"prompt":"check set  ->","completion":" Landing Lights "}
+{"prompt":"release  ->","completion":" Taxi to assigned runway Max knots "}
+{"prompt":"check up  ->","completion":" Flight Controls "}
+{"prompt":"10 .  ->","completion":" safety speed "}
+{"prompt":"landing checklist ->","completion":" Landing Gear "}
+{"prompt":"idle  ->","completion":" Passenger Signs "}
+{"prompt":"beech baron 58.pdf ->","completion":" Securing Aircraft"}
+{"prompt":"off  ->","completion":" Landing Lights "}
+{"prompt":"( fl180 ) 29,92 '' ( )  ->","completion":" Accelerate to cruise speed mach "}
+{"prompt":"1 start ( )  ->","completion":" At Fuel Flow Eng "}
+{"prompt":"off  ->","completion":" Flaps "}
+{"prompt":"beech king air 350.pdf ->","completion":" Approach Checklist"}
+{"prompt":"off  ->","completion":" Pitot Heat De-Ice "}
+{"prompt":"check  ->","completion":" Radios and "}
+{"prompt":"n1 n2 . check  ->","completion":" Oil Pressure "}
+{"prompt":"landing checklist ->","completion":" Autoland Available "}
+{"prompt":"as required  ->","completion":" Fuel Boost Pumps "}
+{"prompt":"135 kias  ->","completion":" After touchdown Apply Reverse Thrust at "}
+{"prompt":"startup checklist ->","completion":" Thrust Levers "}
+{"prompt":"beech baron 58.pdf ->","completion":" Pre-Start Checklist"}
+{"prompt":"checked  ->","completion":" Engine Instruments "}
+{"prompt":"off  ->","completion":" Shutdown Checklist COMPLETED"}
+{"prompt":"check  ->","completion":" Cowl Flaps "}
+{"prompt":"off  ->","completion":" No Smoking Sign "}
+{"prompt":"retracted  ->","completion":" Flight Instruments "}
+{"prompt":"as required  ->","completion":" Fuel Quantity "}
+{"prompt":"\/ off  ->","completion":" Taxi Lights "}
+{"prompt":"approach checklist ->","completion":" Localizer Level Flight "}
+{"prompt":"off  ->","completion":" Service Ceiling ’ ft "}
+{"prompt":"set ,  ->","completion":" Autothrottle Speed don ‘ t activate "}
+{"prompt":"taxi to ramp ->","completion":" Strobe Light "}
+{"prompt":"( atis , )  ->","completion":" Anti-ice Switch "}
+{"prompt":"atc as required  ->","completion":" Fasten Seat Belts "}
+{"prompt":"on  ->","completion":" Heading Indicator Altimeter "}
+{"prompt":"cruise checklist (above fl 180) ->","completion":" At Transition Altitude set Altimeter to 1013mb "}
+{"prompt":"take-off checklist ->","completion":" Smoothly increase thrust to "}
+{"prompt":"fl240 0.75  ->","completion":" to mach "}
+{"prompt":"boeing 747-400.pdf ->","completion":" Descent Checklist"}
+{"prompt":"descent checklist ->","completion":" Atis\/Airport Information "}
+{"prompt":"140 kias 65  ->","completion":" Annunciator Lights "}
+{"prompt":"v1 = 105 kias ( )  ->","completion":" Vr rotate "}
+{"prompt":"check  ->","completion":" Flaps Landing Gear "}
+{"prompt":"set  ->","completion":" De-Ice "}
+{"prompt":"200 kias retract  ->","completion":" Take-off Checklist COMPLETED"}
+{"prompt":"off  ->","completion":" Magnetos "}
+{"prompt":"check down , 3 green  ->","completion":" Autopilot "}
+{"prompt":"check  ->","completion":" Generator Switch "}
+{"prompt":"release  ->","completion":" descision "}
+{"prompt":"up  ->","completion":" Spoilers "}
+{"prompt":"before taxi checklist ->","completion":" Nav Lights "}
+{"prompt":"on  ->","completion":" Check Weather Flight Services "}
+{"prompt":"set  ->","completion":" De-Ice "}
+{"prompt":"10  ->","completion":" At Positive Climb Rate Touch Brakes "}
+{"prompt":"check  ->","completion":" Altimeter "}
+{"prompt":"= 140 kias ( )  ->","completion":" Pitch deg nose up "}
+{"prompt":"taxi to ramp ->","completion":" Strobe Lights "}
+{"prompt":"beech baron 58.pdf ->","completion":" Take-off Checklist"}
+{"prompt":"bombardier crj700.pdf ->","completion":" Pre-Start Checklist"}
+{"prompt":"set  ->","completion":" Flaps degrees "}
+{"prompt":"takeoff setting  ->","completion":" Avionics\/Radios "}
+{"prompt":"off  ->","completion":" Avionics Master Switch "}
+{"prompt":"high rpm  ->","completion":" Elevator Trim for takeoff "}
+{"prompt":":  ->","completion":" Landing Lights "}
+{"prompt":"( , )  ->","completion":" Anti-Ice "}
+{"prompt":"( , )  ->","completion":" Anti-Ice "}
+{"prompt":"on  ->","completion":" No Smoking Sign "}
+{"prompt":"on  ->","completion":" De-Ice "}
+{"prompt":":  ->","completion":" Fasten Seat Belts "}
+{"prompt":"check activate  ->","completion":" Autobrake "}
+{"prompt":"idle  ->","completion":" Passenger Signs "}
+{"prompt":"60 % n1  ->","completion":" Takeoff Thrust or "}
+{"prompt":"boeing 737-800.pdf ->","completion":" Climb-out Checklist"}
+{"prompt":"check  ->","completion":" Avionics Master Switch "}
+{"prompt":"idle  ->","completion":" All Switches Verify "}
+{"prompt":"tuned set  ->","completion":" Autopilot and "}
+{"prompt":"250 kias  ->","completion":" Fuel Quantities and Balance "}
+{"prompt":"10  ->","completion":" Spoilers "}
+{"prompt":"( fl180 ) 29,92 '' ( )  ->","completion":" Climb-out Checklist COMPLETED"}
+{"prompt":"1 = > 8  ->","completion":" Speed Establish "}
+{"prompt":"boeing 737-800.pdf ->","completion":" Cruise Checklist (above FL 180)"}
+{"prompt":"v2 = 185 kias ( )  ->","completion":" At Positive Climb Rate Touch Brakes "}
+{"prompt":"160 kias  ->","completion":" After touchdown Apply Reverse Thrust at "}
+{"prompt":"off  ->","completion":" Airspeed ” "}
+{"prompt":"f\/d off  ->","completion":" Avionics "}
+{"prompt":"cruise checklist (above fl 180) ->","completion":" At Transition Altitude set Altimeter to 1013mb "}
+{"prompt":"check open  ->","completion":" Throttle "}
+{"prompt":"on  ->","completion":" Check Weather Atis Flight Services "}
+{"prompt":"fl240 0.75 ( 330 kias )  ->","completion":" mach "}
+{"prompt":"bombardier crj700.pdf ->","completion":" Startup Checklist"}
+{"prompt":"arm  ->","completion":" Flaps Lever Position "}
+{"prompt":"free and correct  ->","completion":" Elevator Trim "}
+{"prompt":"boeing 737-800.pdf ->","completion":" Before Take-off Checklist"}
+{"prompt":"check  ->","completion":" Avionics Master Switch "}
+{"prompt":"check  ->","completion":" Anti-Ice Aircraft Lighting "}
+{"prompt":"idle  ->","completion":" Fuel Flow Fuel Cond Lever "}
+{"prompt":"fuel press lo extinguished  ->","completion":" Right Annunciator "}
+{"prompt":",  ->","completion":" kts Cancel Reverse Thrust "}
+{"prompt":"beech king air 350.pdf ->","completion":" Securing Aircraft"}
+{"prompt":"check  ->","completion":" Taxi Checklist COMPLETED"}
+{"prompt":"idle  ->","completion":" Engine Area "}
+{"prompt":"released  ->","completion":" Brakes\/Gyro\/Turn Coordinator during taxi and turns "}
+{"prompt":"6  ->","completion":" Securing Aircraft COMPLETED"}
+{"prompt":": 175 kias  ->","completion":" Flaps Lever Position "}
+{"prompt":"off  ->","completion":" Fuel Flow Mixture "}
+{"prompt":"5  ->","completion":" Spoilers "}
+{"prompt":"off  ->","completion":" Landing Lights "}
+{"prompt":"securing aircraft ->","completion":" Parking Brake Verify "}
+{"prompt":"4  ->","completion":" Cruise Checklist (above FL 180) COMPLETED"}
+{"prompt":"down  ->","completion":" Turning toward runway set flaps "}
+{"prompt":"2  ->","completion":" Startup Checklist COMPLETED"}
+{"prompt":"on  ->","completion":" De-Ice "}
+{"prompt":"off  ->","completion":" Avionics "}
+{"prompt":"check  ->","completion":" Landing Lights "}
+{"prompt":"free and correct  ->","completion":" Passenger Signs "}
+{"prompt":"fl180 0.67 ( 330 kias )  ->","completion":" mach "}
+{"prompt":"before taxi checklist ->","completion":" Nav Lights "}
+{"prompt":"bombardier crj700.pdf ->","completion":" Approach Checklist"}
+{"prompt":"on  ->","completion":" Pre-Start Checklist COMPLETED"}
+{"prompt":"off  ->","completion":" Nav Lights "}
+{"prompt":"verify extended  ->","completion":" Brakes "}
+{"prompt":"1200  ->","completion":" Elevator Trim "}
+{"prompt":"check up  ->","completion":" Landing Gear "}
+{"prompt":"set  ->","completion":" Flaps degrees "}
+{"prompt":"on  ->","completion":" Taxi Lights "}
+{"prompt":"on set  ->","completion":" Autobrake "}
+{"prompt":"on  ->","completion":" Right Alternator Annunciator "}
+{"prompt":"fl280 0.78 ( 320 kias )  ->","completion":" mach "}
+{"prompt":"off  ->","completion":" Flaps "}
+{"prompt":"set  ->","completion":" Throttle Verify "}
+{"prompt":"\/ as required  ->","completion":" Descent Rate fpm "}
+{"prompt":"startup checklist ->","completion":" Thrust Levers "}
+{"prompt":"stabilize .  ->","completion":" Fuel Quantity "}
+{"prompt":"off  ->","completion":" Landing Speed "}
+{"prompt":"off  ->","completion":" Cowl Flaps "}
+{"prompt":"2  ->","completion":" Startup Checklist COMPLETED"}
+{"prompt":"up  ->","completion":" Spoiler "}
+{"prompt":"bombardier crj700.pdf ->","completion":" Taxi Checklist"}
+{"prompt":"startup checklist ->","completion":" Thrust Levers "}
+{"prompt":"up  ->","completion":" Spoilers "}
+{"prompt":"boeing 737-800.pdf ->","completion":" Descent Checklist"}
+{"prompt":"boeing 747-400.pdf ->","completion":" Taxi Checklist"}
+{"prompt":"retracted  ->","completion":" Taxi Lights "}
+{"prompt":"pre-start checklist ->","completion":" Parking Brakes "}
+{"prompt":"shutdown checklist ->","completion":" Parking Brake "}
+{"prompt":" ->","completion":" Ignition Switch "}
+{"prompt":"on  ->","completion":" No Smoking Sign "}
+{"prompt":"normal operation  ->","completion":" Radios and Avionics and "}
+{"prompt":"up  ->","completion":" Spoilers "}
+{"prompt":": 150 kias 25  ->","completion":" Flaps "}
+{"prompt":"\/ as required  ->","completion":" Cowl Flaps "}
+{"prompt":"down  ->","completion":" Turning toward runway set flaps degrees or "}
+{"prompt":"on  ->","completion":" Anti-ice "}
+{"prompt":"40 % n1  ->","completion":" Takeoff Thrust or "}
+{"prompt":"off  ->","completion":" Gen "}
+{"prompt":"on  ->","completion":" Check Weather Atis Flight Services "}
+{"prompt":"pre-start checklist ->","completion":" Parking Brakes "}
+{"prompt":"beech baron 58.pdf ->","completion":" Pre-Start Checklist"}
+{"prompt":"off  ->","completion":" Repeat for right Engine "}
+{"prompt":"boeing 747-400.pdf ->","completion":" Taxi Checklist"}
+{"prompt":"on  ->","completion":" Landing Lights "}
+{"prompt":"+ set  ->","completion":" Speed Establish "}
+{"prompt":"check  ->","completion":" Take-off Checklist COMPLETED"}
+{"prompt":"check  ->","completion":" Strobe Light "}
+{"prompt":"on  ->","completion":" Request Takeoff Clearance "}
+{"prompt":"erect  ->","completion":" Taxi Checklist COMPLETED"}
+{"prompt":"on  ->","completion":" Heading Indicator\/Altimeters "}
+{"prompt":"check up  ->","completion":" Fuel Balance "}
+{"prompt":"check  ->","completion":" Radios "}
+{"prompt":"tuned set  ->","completion":" Lights "}
+{"prompt":"boeing 747-400.pdf ->","completion":" Before Taxi Checklist"}
+{"prompt":". 20  ->","completion":" Transponder "}
+{"prompt":"idle  ->","completion":" Passenger Signs "}
+{"prompt":"160-170 kias 80  ->","completion":" Propeller "}
+{"prompt":"retract  ->","completion":" Trim for climb to maintain Torque "}
+{"prompt":"( fl180 )  ->","completion":" to "}
+{"prompt":"fl120 300 kias  ->","completion":" below 10'000ft "}
+{"prompt":"v2 = 160 kias ( )  ->","completion":" At Positive Climb Rate Touch Brakes "}
+{"prompt":"climb-out checklist ->","completion":" Throttle "}
+{"prompt":": 120 kias 2350 rpm 18  ->","completion":" Landing Gear "}
+{"prompt":"fl330 0.78 ( 285 kias )  ->","completion":" Engine+Instruments "}
+{"prompt":"full  ->","completion":" Brakes "}
+{"prompt":"taxi checklist ->","completion":" Parking Brake "}
+{"prompt":"on  ->","completion":" Taxi Lights "}
+{"prompt":"atc as required  ->","completion":" Climb-out Checklist COMPLETED"}
+{"prompt":"fl240 0.75 ( 330 kias )  ->","completion":" mach "}
+{"prompt":"f\/d on  ->","completion":" Autobrake "}
+{"prompt":"\/ check charge  ->","completion":" Propeller Synchrophaser "}
+{"prompt":"+ set  ->","completion":" Speed Establish "}
+{"prompt":"on  ->","completion":" Request Takeoff Clearance "}
+{"prompt":"check set  ->","completion":" Lights as required "}
+{"prompt":"verify off  ->","completion":" Anti-Ice "}
+{"prompt":"+ set  ->","completion":" Speed Establish "}
+{"prompt":"set  ->","completion":" Flaps deg "}
+{"prompt":"bombardier crj700.pdf ->","completion":" Taxi To Ramp"}
+{"prompt":"arm  ->","completion":" Autobrake "}
+{"prompt":"4  ->","completion":" Cruise Checklist COMPLETED"}
+{"prompt":" ->","completion":" Master Starter Switch "}
+{"prompt":"on  ->","completion":" Anti-ice "}
+{"prompt":"20  ->","completion":" Speed Establish "}
+{"prompt":"startup checklist ->","completion":" Thrust Levers "}
+{"prompt":"off  ->","completion":" Anti-ice "}
+{"prompt":"\/ as required  ->","completion":" Cowl Flaps "}
+{"prompt":". 20  ->","completion":" Cowl Flaps "}
+{"prompt":"check down , 3 green  ->","completion":" Autopilot "}
+{"prompt":"check extinguished  ->","completion":" Repeat for left engine "}
+{"prompt":"on  ->","completion":" Pre-Start Checklist COMPLETED"}
+{"prompt":"boeing 737-800.pdf ->","completion":" Take-off Checklist"}
+{"prompt":"on  ->","completion":" Check Weather Flight Services "}
+{"prompt":"( atis , )  ->","completion":" Descent Checklist COMPLETED"}
+{"prompt":"erect  ->","completion":" Taxi Checklist COMPLETED"}
+{"prompt":"cutoff  ->","completion":" Master Switch "}
+{"prompt":"fl280 0.82 ( 335 kias )  ->","completion":" mach "}
+{"prompt":"( atis , )  ->","completion":" Anti-ice Switches "}
+{"prompt":"verify off  ->","completion":" Anti-Ice "}
+{"prompt":"v1 = 135 kias ( )  ->","completion":" Vr rotate "}
+{"prompt":"fl180 0.67 ( 330 kias )  ->","completion":" mach "}
+{"prompt":"beech baron 58.pdf ->","completion":" Descent Checklist"}
+{"prompt":"check  ->","completion":" Pitot Heat De-Ice "}
+{"prompt":"on set  ->","completion":" Autobrake "}
+{"prompt":"5-10  ->","completion":" Speed Establish "}
+{"prompt":"idle  ->","completion":" Fuel Flow "}
+{"prompt":"set  ->","completion":" Throttle Verify "}
+{"prompt":"check  ->","completion":" Radios and "}
+{"prompt":":  ->","completion":" Speed Establish ” "}
+{"prompt":"retracted  ->","completion":" Flight Instruments "}
+{"prompt":"free and correct  ->","completion":" Radios and Avionics "}
+{"prompt":"verify armed  ->","completion":" Propeller "}
+{"prompt":"set  ->","completion":" Throttle "}
+{"prompt":"landing checklist ->","completion":" Landing Gear "}
+{"prompt":"on  ->","completion":" Taxi Lights "}
+{"prompt":"( v1 , vr , v2 ) check  ->","completion":" Nav Equipment "}
+{"prompt":"cruise checklist ->","completion":" Accelerate to cruise speed Torque "}
+{"prompt":"tuned set  ->","completion":" Autopilot and "}
+{"prompt":"60 % n1  ->","completion":" Takeoff Thrust or "}
+{"prompt":"check  ->","completion":" At Transition Altitude reset Altimeter to local "}
+{"prompt":"normal operation  ->","completion":" Radios and Avionics and "}
+{"prompt":"off  ->","completion":" Landing Lights "}
+{"prompt":"check  ->","completion":" Radios "}
+{"prompt":"fl240 0.75  ->","completion":" to mach "}
+{"prompt":"on  ->","completion":" Request Takeoff Clearance "}
+{"prompt":"check  ->","completion":" Flight controls "}
+{"prompt":"v2 115 kias  ->","completion":" Pitch degrees "}
+{"prompt":"atc as required  ->","completion":" Fasten Seat Belts "}
+{"prompt":"fl240 0.76 ( 335 kias )  ->","completion":" mach "}
+{"prompt":"on  ->","completion":" Starter Switch "}
+{"prompt":"as required  ->","completion":" Descent Speed to mach "}
+{"prompt":"retract  ->","completion":" Taxi Lights "}
+{"prompt":"fl240 0.75  ->","completion":" to mach "}
+{"prompt":"8  ->","completion":" Spoilers "}
+{"prompt":"60 % n1  ->","completion":" Takeoff Thrust or "}
+{"prompt":"5  ->","completion":" Landing Checklist COMPLETED"}
+{"prompt":"approach checklist ->","completion":" Localizer Level Flight "}
+{"prompt":"on  ->","completion":" Pitot Heat "}
+{"prompt":"startup checklist ->","completion":" Thrust Levers "}
+{"prompt":"retract  ->","completion":" At Flaps to Pos "}
+{"prompt":"on  ->","completion":" Auto Spoilers "}
+{"prompt":": 25 full  ->","completion":" Final Glideslope Descent "}
+{"prompt":"bombardier crj700.pdf ->","completion":" Take-off Checklist"}
+{"prompt":"approach checklist ->","completion":" Localizer Level Flight "}
+{"prompt":" ->","completion":" Transponder "}
+{"prompt":"as required  ->","completion":" Transponder "}
+{"prompt":"\/ cutoff  ->","completion":" Fuel Selectors "}
+{"prompt":"takeoff setting  ->","completion":" Avionics\/Radios "}
+{"prompt":"set  ->","completion":" Altimeters "}
+{"prompt":",  ->","completion":" kts Cancel Reverse Thrust "}
+{"prompt":"off  ->","completion":" Strobe Light "}
+{"prompt":"on  ->","completion":" Taxi Lights "}
+{"prompt":"down  ->","completion":" Turning toward runway "}
+{"prompt":"on  ->","completion":" Request Takeoff Clearance "}
+{"prompt":"as required  ->","completion":" Descent Speed to mach "}
+{"prompt":"bombardier crj700.pdf ->","completion":" Startup Checklist"}
+{"prompt":"fl180 0.65  ->","completion":" At Transition Altitude reset Altimeter to local "}
+{"prompt":"4  ->","completion":" Cruise Checklist COMPLETED"}
+{"prompt":"boeing 737-800.pdf ->","completion":" Shutdown Checklist"}
+{"prompt":"boeing 747-400.pdf ->","completion":" Take-off Checklist"}
+{"prompt":"check  ->","completion":" Directional Gyro during turns "}
+{"prompt":"250 kias \/ 1800  ->","completion":" Autopilot\/Autothrottle and "}
+{"prompt":"landing checklist ->","completion":" Landing Gear "}
+{"prompt":"set  ->","completion":" Throttle "}
+{"prompt":"check  ->","completion":" Takeoff Data "}
+{"prompt":"beech king air 350.pdf ->","completion":" Take-off Checklist"}
+{"prompt":"60 :  ->","completion":" Spoilers "}
+{"prompt":"idle  ->","completion":" Engine Area "}
+{"prompt":"landing checklist ->","completion":" Landing Gear "}
+{"prompt":"bombardier crj700.pdf ->","completion":" Climb-out Checklist"}
+{"prompt":"1600 rpm  ->","completion":" Autofeather "}
+{"prompt":"fl120 300 kias  ->","completion":" below 10'000ft "}
+{"prompt":"check  ->","completion":" Annunciator Lights "}
+{"prompt":"on  ->","completion":" Fuel Quantity "}
+{"prompt":"\/ off  ->","completion":" Taxi Lights "}
+{"prompt":"135 kias  ->","completion":" After touchdown Apply Reverse Thrust at "}
+{"prompt":"boeing 747-400.pdf ->","completion":" Cruise Checklist (above FL 180)"}
+{"prompt":"on  ->","completion":" Starter Switch "}
+{"prompt":" ->","completion":" Landing Gear "}
+{"prompt":"bombardier crj700.pdf ->","completion":" Before Take-off Checklist"}
+{"prompt":"beech king air 350.pdf ->","completion":" Climb-out Checklist"}
+{"prompt":"on as required  ->","completion":" Autofeather "}
+{"prompt":"set  ->","completion":" Landing Lights "}
+{"prompt":"checked  ->","completion":" Engine Instruments "}
+{"prompt":"set  ->","completion":" Flaps degrees "}
+{"prompt":"itt n1 rpm monitor  ->","completion":" Right Annunciator "}
+{"prompt":"off  ->","completion":" Below max speed "}
+{"prompt":"retract  ->","completion":" At Flaps to Pos "}
+{"prompt":"on  ->","completion":" Avionics Radios "}
+{"prompt":"5  ->","completion":" Landing Checklist COMPLETED"}
+{"prompt":"off  ->","completion":" Beacon "}
+{"prompt":"set  ->","completion":" Anti-Ice "}
+{"prompt":"checked set  ->","completion":" Autopilot and "}
+{"prompt":"cruise checklist ->","completion":" Accelerate to cruise speed ft ” "}
+{"prompt":"arm set  ->","completion":" Autopilot and "}
+{"prompt":"boeing 737-800.pdf ->","completion":" Descent Checklist"}
+{"prompt":"off  ->","completion":" Landing Speed "}
+{"prompt":": 200 kias  ->","completion":" Landing Lights "}
+{"prompt":"off  ->","completion":" Master Switch Shift-M "}
+{"prompt":"take-off checklist ->","completion":" Smoothly increase thrust to let spool up "}
+{"prompt":"boeing 747-400.pdf ->","completion":" Cruise Checklist (above FL 180)"}
+{"prompt":": 145 kias 2350 rpm 18  ->","completion":" Flaps "}
+{"prompt":"on  ->","completion":" Taxi Lights "}
+{"prompt":"check set  ->","completion":" Lights as required "}
+{"prompt":"test\/check  ->","completion":" Request Clearance "}
+{"prompt":"6000 180 kias 2350 rpm 23  ->","completion":" ft ” "}
+{"prompt":"set  ->","completion":" Throttle "}
+{"prompt":":  ->","completion":" Fasten Seat Belts "}
+{"prompt":"bombardier crj700.pdf ->","completion":" Descent Checklist"}
+{"prompt":"free and correct  ->","completion":" Radios and Avionics "}
+{"prompt":"beech king air 350.pdf ->","completion":" Descent Checklist"}
+{"prompt":"+ set  ->","completion":" Speed Establish "}
+{"prompt":"fl280 0.78 ( 320 kias )  ->","completion":" mach "}
+{"prompt":"fl240 0.75 ( 330 kias )  ->","completion":" mach "}
+{"prompt":"on  ->","completion":" Landing Lights "}
+{"prompt":"set appr  ->","completion":" Speed Establish ” "}
+{"prompt":"check  ->","completion":" Flaps Landing Gear "}
+{"prompt":"fl120 280 kias  ->","completion":" below 10'000ft "}
+{"prompt":"\/ . off  ->","completion":" Hydraulic Pump Switches "}
+{"prompt":"check  ->","completion":" Engine Instruments "}
+{"prompt":"( atis , )  ->","completion":" Descent Checklist COMPLETED"}
+{"prompt":"off  ->","completion":" Pitot Heat "}
+{"prompt":"60 :  ->","completion":" Spoilers "}
+{"prompt":"as required  ->","completion":" Descent Speed to mach "}
+{"prompt":"bombardier crj700.pdf ->","completion":" Cruise Checklist (above FL 180)"}
+{"prompt":"high rpm  ->","completion":" Fuel Cond Lever "}
+{"prompt":" ->","completion":" Fuel Pump Switches "}
+{"prompt":"( fl180 ) 29,92 '' ( )  ->","completion":" Accelerate to cruise speed mach "}
+{"prompt":"full to\/ga  ->","completion":" Brakes "}
+{"prompt":"f\/d off  ->","completion":" Master Starter Switches "}
+{"prompt":"shutdown checklist ->","completion":" Brake "}
+{"prompt":" ->","completion":" Transponder "}
+{"prompt":"retracted  ->","completion":" Flight Instruments "}
+{"prompt":"set  ->","completion":" Flaps deg "}
+{"prompt":"atc as required  ->","completion":" Climb-out Checklist COMPLETED"}
+{"prompt":"+ set  ->","completion":" Speed Establish "}
+{"prompt":"test\/check  ->","completion":" Request Clearance "}
+{"prompt":"off  ->","completion":" Anti-ice "}
+{"prompt":"boeing 747-400.pdf ->","completion":" Shutdown Checklist"}
+{"prompt":"check  ->","completion":" Flaps Landing Gear "}
+{"prompt":"mfd eicas 1  ->","completion":" Landing Lights "}
+{"prompt":"1200  ->","completion":" Taxi To Ramp COMPLETED"}
+{"prompt":"4  ->","completion":" Cruise Checklist (above FL 180) COMPLETED"}
+{"prompt":"40 % n1  ->","completion":" Takeoff Thrust or "}
+{"prompt":"apu start \/ check run  ->","completion":" Gen "}
+{"prompt":" ->","completion":" Before Taxi Checklist COMPLETED"}
+{"prompt":"on  ->","completion":" Heading Indicator "}
+{"prompt":"v2 = 160 kias ( )  ->","completion":" At Positive Climb Rate Touch Brakes "}
+{"prompt":"on  ->","completion":" Panel Lights if required "}
+{"prompt":"apu on \/ check volts  ->","completion":" Avionics Radios "}
+{"prompt":"240 kias  ->","completion":" Fuel Quantities and Balance "}
+{"prompt":"f\/d on  ->","completion":" Yaw Damper "}
+{"prompt":":  ->","completion":" Speed Establish "}
+{"prompt":"5  ->","completion":" Approach Checklist COMPLETED"}
+{"prompt":"on , set ,  ->","completion":" Autothrottle don ‘ t activate "}
+{"prompt":"on  ->","completion":" Check Weather Flight Services "}
+{"prompt":"off  ->","completion":" Landing Speed "}
+{"prompt":" ->","completion":" Master Starter Switch "}
+{"prompt":"off  ->","completion":" Panel Light "}
+{"prompt":"set  ->","completion":" Standby Instruments "}
+{"prompt":"main wheels first  ->","completion":" Landing Roll "}
+{"prompt":"taxi checklist ->","completion":" Parking Brake "}
+{"prompt":": 180 kias  ->","completion":" Landing Gear "}
+{"prompt":"batt on  ->","completion":" Panel Lights if required "}
+{"prompt":"beech baron 58.pdf ->","completion":" Taxi Checklist"}
+{"prompt":"( v1 , vr , v2 ) check  ->","completion":" Nav Equipment "}
+{"prompt":" ->","completion":" Gear Lever "}
+{"prompt":"set  ->","completion":" Throttle "}
+{"prompt":"boeing 747-400.pdf ->","completion":" Landing Checklist"}
+{"prompt":"check  ->","completion":" Strobe Light "}
+{"prompt":"& off  ->","completion":" Battery Alternator Switches "}
+{"prompt":"on  ->","completion":" Taxi Lights "}
+{"prompt":"apu start \/ check run  ->","completion":" Gen "}
+{"prompt":"arm  ->","completion":" Autobrake "}
+{"prompt":"on  ->","completion":" Heading Indicator Altimeter "}
+{"prompt":"boeing 747-400.pdf ->","completion":" Approach Checklist"}
+{"prompt":". cutoff ( )  ->","completion":" Propeller "}
+{"prompt":"250 kias \/ 1800  ->","completion":" Autopilot\/Autothrottle and "}
+{"prompt":"on  ->","completion":" Anti-ice "}
+{"prompt":"n1 n2 . check  ->","completion":" Generator Switch "}
+{"prompt":": 175 kias  ->","completion":" Flaps degrees "}
+{"prompt":"off  ->","completion":" Speed Max knots "}
+{"prompt":"10000 ' 280 kias  ->","completion":" Climb-out Checklist COMPLETED"}
+{"prompt":"idle  ->","completion":" Battery Switch "}
+{"prompt":"on  ->","completion":" Auto Spoilers "}
+{"prompt":"taxi to ramp ->","completion":" Strobe Light "}
+{"prompt":"& off  ->","completion":" Fuel Pump Switches "}
+{"prompt":"take-off checklist ->","completion":" Smoothly increase thrust to "}
+{"prompt":"arm  ->","completion":" Anti-ice "}
+{"prompt":"on  ->","completion":" Taxi Lights "}
+{"prompt":"check up  ->","completion":" Fuel Balance "}
+{"prompt":"6000 180 kias 2350 rpm 23  ->","completion":" ft ” "}
+{"prompt":"check  ->","completion":" Throttle "}
+{"prompt":"check  ->","completion":" Landing Lights "}
+{"prompt":"fl120 280 kias  ->","completion":" below 10'000ft "}
+{"prompt":"as required  ->","completion":" Transponder "}
+{"prompt":"off  ->","completion":" Taxi Lights "}
+{"prompt":"?  ->","completion":" Landing Gear "}
+{"prompt":"set  ->","completion":" Autofeather "}
+{"prompt":"\/ cutoff  ->","completion":" Fuel Selectors "}
+{"prompt":"as required  ->","completion":" Descent Speed to mach "}
+{"prompt":"off  ->","completion":" Beacon Anti Collision Lights "}
+{"prompt":"1600 rpm  ->","completion":" Engine Instruments "}
+{"prompt":"apu on  ->","completion":" Avionics Radios "}
+{"prompt":"on  ->","completion":" Battery Switch "}
+{"prompt":"free and correct  ->","completion":" Passenger Signs "}
+{"prompt":"full to\/ga  ->","completion":" Brakes "}
+{"prompt":"boeing 737-800.pdf ->","completion":" Before Taxi Checklist"}
+{"prompt":"as required  ->","completion":" Landing Checklist COMPLETED"}
+{"prompt":"off  ->","completion":" Speed Max knots "}
+{"prompt":"arm set  ->","completion":" Autopilot and "}
+{"prompt":"5  ->","completion":" Approach Checklist COMPLETED"}
+{"prompt":"160 kias  ->","completion":" After touchdown Apply Reverse Thrust at "}
+{"prompt":"before taxi checklist ->","completion":" Nav Lights "}
+{"prompt":"check  ->","completion":" increasing as incr "}
+{"prompt":"off  ->","completion":" Speed Max knots "}
+{"prompt":"as desired  ->","completion":" Taxi To Ramp COMPLETED"}
+{"prompt":"apu start \/ check run  ->","completion":" Gen "}
+{"prompt":"off  ->","completion":" Airspeed Torque "}
+{"prompt":"( fl180 )  ->","completion":" to "}
+{"prompt":"set  ->","completion":" De-Ice "}
+{"prompt":"check down  ->","completion":" Battery Switch "}
+{"prompt":"beech king air 350.pdf ->","completion":" Taxi Checklist"}
+{"prompt":"batt off  ->","completion":" Shutdown Checklist COMPLETED"}
+{"prompt":":  ->","completion":" Fasten Seat Belts "}
+{"prompt":"off  ->","completion":" Taxi Lights "}
+{"prompt":"set  ->","completion":" Descent Speed ” "}
+{"prompt":"check  ->","completion":" Right Generator "}
+{"prompt":"set  ->","completion":" Throttle "}
+{"prompt":"approach checklist ->","completion":" Localizer Level Flight "}
+{"prompt":"\/ set  ->","completion":" Instruments "}
+{"prompt":"idle  ->","completion":" Elevator Trim for takeoff "}
+{"prompt":"on , set ,  ->","completion":" Autothrottle don ‘ t activate "}
+{"prompt":"fl180 0.65  ->","completion":" At Transition Altitude reset Altimeter to local "}
+{"prompt":"set  ->","completion":" Fuel Quantity "}
+{"prompt":"before take-off checklist ->","completion":" Brakes "}
+{"prompt":"9000 160 kias 2350 rpm 20  ->","completion":" Fuel Flow Mixture "}
+{"prompt":"check  ->","completion":" Engine Instruments "}
+{"prompt":"test\/check  ->","completion":" Request Clearance "}
+{"prompt":"bombardier crj700.pdf ->","completion":" Descent Checklist"}
+{"prompt":"idle ,  ->","completion":" Right Magneto and Engine Start Switch hold until engine starts "}
+{"prompt":"takeoff setting  ->","completion":" Taxi To Ramp COMPLETED"}
+{"prompt":"== >  ->","completion":" Feather\/Unfeather Props once "}
+{"prompt":"\/ off  ->","completion":" Flight controls "}
+{"prompt":"set  ->","completion":" Radios and Avionics "}
+{"prompt":"taxi to ramp ->","completion":" Strobe Light "}
+{"prompt":"off  ->","completion":" Shutdown Checklist COMPLETED"}
+{"prompt":"6  ->","completion":" Securing Aircraft COMPLETED"}
+{"prompt":"check  ->","completion":" Radios "}
+{"prompt":"pre-start checklist ->","completion":" Parking Brake "}
+{"prompt":"check down  ->","completion":" Flaps "}
+{"prompt":"boeing 747-400.pdf ->","completion":" Landing Checklist"}
+{"prompt":"off  ->","completion":" Pitot Heat "}
+{"prompt":"off  ->","completion":" Engine Instruments "}
+{"prompt":"check  ->","completion":" Takeoff Data "}
+{"prompt":"clear  ->","completion":" Throttle "}
+{"prompt":"full  ->","completion":" Autopilot and "}
+{"prompt":"release  ->","completion":" Taxi to assigned runway Max knots "}
+{"prompt":"retracted  ->","completion":" Taxi Lights "}
+{"prompt":": 25 full  ->","completion":" Final Glideslope Descent "}
+{"prompt":" ->","completion":" Transponder "}
+{"prompt":"set appr  ->","completion":" Speed Establish ” "}
+{"prompt":"arm  ->","completion":" Descent Speed Torque "}
+{"prompt":" ->","completion":" Transponder "}
+{"prompt":"off  ->","completion":" Fuel Cond Lever Ctrl-Shift-F1 "}
+{"prompt":"on  ->","completion":" Taxi Lights "}
+{"prompt":"check activate  ->","completion":" Below max speed "}
+{"prompt":"off  ->","completion":" Strobe Light "}
+{"prompt":"check  ->","completion":" Radios and "}
+{"prompt":"check  ->","completion":" Altimeter "}
+{"prompt":"on  ->","completion":" Landing Lights "}
+{"prompt":"stabilize .  ->","completion":" Fuel Quantity "}
+{"prompt":"fl180 0.65  ->","completion":" At Transition Altitude reset Altimeter to local "}
+{"prompt":"set appr  ->","completion":" Speed Establish Torque "}
+{"prompt":"fl180 0.67 ( 330 kias )  ->","completion":" mach "}
+{"prompt":"boeing 737-800.pdf ->","completion":" Taxi To Ramp"}
+{"prompt":"\/ on  ->","completion":" Pre-Start Checklist COMPLETED"}
+{"prompt":"fl180 0.65  ->","completion":" At Transition Altitude reset Altimeter to local "}
+{"prompt":"securing aircraft ->","completion":" Parking Brake Verify "}
+{"prompt":"check  ->","completion":" Master Warning Display "}
+{"prompt":"set  ->","completion":" Flaps degrees "}
+{"prompt":"check  ->","completion":" Flaps Landing Gear "}
+{"prompt":"v1 = 135 kias ( )  ->","completion":" Vr rotate "}
+{"prompt":"on  ->","completion":" Taxi Lights "}
+{"prompt":"release  ->","completion":" Taxi to assigned runway Max knots "}
+{"prompt":"check  ->","completion":" Radios "}
+{"prompt":"off  ->","completion":" No Smoking Sign "}
+{"prompt":"oil press lo extinguished  ->","completion":" Right Oil Pressure "}
+{"prompt":"off  ->","completion":" Avionics "}
+{"prompt":"10  ->","completion":" At Positive Climb Rate Touch Brakes "}
+{"prompt":"on  ->","completion":" Panel Lights if required "}
+{"prompt":"10000 ' 280 kias  ->","completion":" Climb-out Checklist COMPLETED"}
+{"prompt":"before take-off checklist ->","completion":" Parking Brake "}
+{"prompt":": 180 kias  ->","completion":" Landing Gear "}
+{"prompt":"boeing 747-400.pdf ->","completion":" Before Take-off Checklist"}
+{"prompt":": 200 kias  ->","completion":" Flaps degrees "}
+{"prompt":"set  ->","completion":" Throttle "}
+{"prompt":"up  ->","completion":" Propeller "}
+{"prompt":": 175 kias  ->","completion":" Flaps degrees "}
+{"prompt":"( atis , )  ->","completion":" Descent Checklist COMPLETED"}
+{"prompt":"set  ->","completion":" Throttle Verify "}
+{"prompt":"bombardier crj700.pdf ->","completion":" Before Take-off Checklist"}
+{"prompt":"check  ->","completion":" Take-off Checklist COMPLETED"}
+{"prompt":"retract  ->","completion":" Trim for climb to maintain Torque "}
+{"prompt":"8-10 .  ->","completion":" safety speed "}
+{"prompt":"check down  ->","completion":" Battery Switch "}
+{"prompt":": 210 kias  ->","completion":" Landing Lights "}
+{"prompt":"beech king air 350.pdf ->","completion":" Shutdown Checklist"}
+{"prompt":"140 kias  ->","completion":" Parking Brake "}
+{"prompt":"verify off  ->","completion":" De-Ice "}
+{"prompt":"set  ->","completion":" Throttle "}
+{"prompt":"bombardier crj700.pdf ->","completion":" Securing Aircraft"}
+{"prompt":"taxi checklist ->","completion":" Parking Brake "}
+{"prompt":"check  ->","completion":" Pitot Heat De-Ice "}
+{"prompt":"before take-off checklist ->","completion":" Parking Brake "}
+{"prompt":"on  ->","completion":" Anti-ice "}
+{"prompt":"check set  ->","completion":" Lights as required "}
+{"prompt":"check down  ->","completion":" Flaps "}
+{"prompt":"boeing 747-400.pdf ->","completion":" Before Take-off Checklist"}
+{"prompt":": full down  ->","completion":" Propeller "}
+{"prompt":"check  ->","completion":" Radios and "}
+{"prompt":"check set  ->","completion":" Lights as required "}
+{"prompt":"idle  ->","completion":" All Switches Verify "}
+{"prompt":"on  ->","completion":" Pitot Heat "}
+{"prompt":"off  ->","completion":" Speed Max knots "}
+{"prompt":"check  ->","completion":" Radios "}
+{"prompt":"batt on ( )  ->","completion":" Panel Lights as required "}
+{"prompt":":  ->","completion":" Speed Establish Torque "}
+{"prompt":"v1 = 85 kias ( )  ->","completion":" Vr rotate "}
+{"prompt":"6  ->","completion":" Securing Aircraft COMPLETED"}
+{"prompt":"\/ . off  ->","completion":" Hydraulic Pump Switches "}
+{"prompt":"as required  ->","completion":" Transponder "}
+{"prompt":"= 150 kias ( )  ->","completion":" Pitch deg nose up "}
+{"prompt":"on  ->","completion":" Fuel Quantity "}
+{"prompt":"220 kias retract  ->","completion":" Take-off Checklist COMPLETED"}
+{"prompt":", off  ->","completion":" Throttle cracked "}
+{"prompt":"apu start \/ check run  ->","completion":" Gen "}
+{"prompt":"5  ->","completion":" Approach Checklist COMPLETED"}
+{"prompt":"( atis , )  ->","completion":" Descent Checklist COMPLETED"}
+{"prompt":"rto  ->","completion":" Elevator Trim for takeoff "}
+{"prompt":"tuned set  ->","completion":" Autopilot and "}
+{"prompt":"release  ->","completion":" Taxi to assigned runway Max knots "}
+{"prompt":"v2 = 150 kias ( )  ->","completion":" At Positive Climb Rate Touch Brakes "}
+{"prompt":"idle  ->","completion":" Battery Switch "}
+{"prompt":"5  ->","completion":" Spoilers "}
+{"prompt":"beech baron 58.pdf ->","completion":" Shutdown Checklist"}
+{"prompt":"retract  ->","completion":" Trim for climb to maintain ” "}
+{"prompt":"speed . 20  ->","completion":" Brakes during taxi "}
+{"prompt":" ->","completion":" Annunciator Lights "}
+{"prompt":"5-10  ->","completion":" Speed Establish "}
+{"prompt":"set  ->","completion":" Standby Instruments "}
+{"prompt":"idle  ->","completion":" Fuel Flow "}
+{"prompt":"test\/cherck  ->","completion":" Request Clearance "}
+{"prompt":"on  ->","completion":" No Smoking Sign "}
+{"prompt":"off  ->","completion":" Beacon "}
+{"prompt":"boeing 737-800.pdf ->","completion":" Approach Checklist"}
+{"prompt":"batt on  ->","completion":" Panel Lights if required "}
+{"prompt":"release  ->","completion":" descision "}
+{"prompt":"off  ->","completion":" Engine Instruments "}
+{"prompt":"beech king air 350.pdf ->","completion":" Descent Checklist"}
+{"prompt":"test\/check  ->","completion":" Request Clearance "}
+{"prompt":"set  ->","completion":" Flaps "}
+{"prompt":"as required  ->","completion":" Trim for fpm "}
+{"prompt":"220-240 kias 85  ->","completion":" Propeller "}
+{"prompt":"securing aircraft ->","completion":" Parking Brake Verify "}
+{"prompt":"off  ->","completion":" Gen "}
+{"prompt":"170 kias  ->","completion":" Park Brakes "}
+{"prompt":"taxi to ramp ->","completion":" Strobe Light "}
+{"prompt":": 150 kias 25  ->","completion":" Flaps "}
+{"prompt":"before take-off checklist ->","completion":" Parking Brake "}
+{"prompt":"check  ->","completion":" Landing Lights "}
+{"prompt":"\/ off  ->","completion":" Flight controls "}
+{"prompt":"3  ->","completion":" Before Take-off Checklist COMPLETED"}
+{"prompt":"130 kias 2500 rpm 21  ->","completion":" Fuel Flow Mixture "}
+{"prompt":"securing aircraft ->","completion":" Parking Brake Verify "}
+{"prompt":": 155 kias  ->","completion":" Landing Gear "}
+{"prompt":"beech baron 58.pdf ->","completion":" Approach Checklist"}
+{"prompt":" ->","completion":" Landing Gear "}
+{"prompt":"= 140 kias ( )  ->","completion":" Pitch deg nose up "}
+{"prompt":"high rpm  ->","completion":" Fuel Flow Mixture "}
+{"prompt":"f\/d on  ->","completion":" Elevator Trim for takeoff "}
+{"prompt":": 155 kias  ->","completion":" Landing Gear "}
+{"prompt":"set  ->","completion":" Throttle "}
+{"prompt":"off  ->","completion":" Service Ceiling ’ ft "}
+{"prompt":"verify off  ->","completion":" De-Ice "}
+{"prompt":"fl180 0.65  ->","completion":" At Transition Altitude reset Altimeter to local "}
+{"prompt":"beech king air 350.pdf ->","completion":" Cruise Checklist"}
+{"prompt":"set ,  ->","completion":" Autothrottle Speed don ‘ t activate "}
+{"prompt":"idle  ->","completion":" All Switches Verify "}
+{"prompt":"off  ->","completion":" Speed Max knots "}
+{"prompt":"3  ->","completion":" Before Take-off Checklist COMPLETED"}
+{"prompt":"beech baron 58.pdf ->","completion":" Cruise Checklist"}
+{"prompt":": 200 kias  ->","completion":" Landing Lights "}
+{"prompt":"idle  ->","completion":" Magneto Engine Start Switches "}
+{"prompt":"set  ->","completion":" Radios and Avionics "}
+{"prompt":"erect  ->","completion":" Taxi Checklist COMPLETED"}
+{"prompt":"on  ->","completion":" Autofeather "}
+{"prompt":"check  ->","completion":" Pitot Heat De-Ice "}
+{"prompt":"off  ->","completion":" Battery Switch when "}
+{"prompt":" ->","completion":" Landing Gear "}
+{"prompt":"check  ->","completion":" Landing Lights "}
+{"prompt":"boeing 747-400.pdf ->","completion":" Pre-Start Checklist"}
+{"prompt":"boeing 747-400.pdf ->","completion":" Taxi To Ramp"}
+{"prompt":"verify off  ->","completion":" Approach Checklist COMPLETED"}
+{"prompt":"n1 n2 . check  ->","completion":" Oil Pressure "}
+{"prompt":"hi  ->","completion":" until fuel flow peaks then "}
+{"prompt":"check set  ->","completion":" Landing Lights "}
+{"prompt":"idle  ->","completion":" Fuel Flow "}
+{"prompt":"v1 = 145 kias ( )  ->","completion":" Vr rotate "}
+{"prompt":"( atis , )  ->","completion":" Descent Checklist COMPLETED"}
+{"prompt":"on  ->","completion":" Autofeather "}
+{"prompt":"set  ->","completion":" Fuel Quantity "}
+{"prompt":"140 kias 65  ->","completion":" Annunciator Lights "}
+{"prompt":"f\/d on  ->","completion":" Yaw Damper "}
+{"prompt":",  ->","completion":" kts Cancel Reverse Thrust "}
+{"prompt":"check  ->","completion":" Taxi Checklist COMPLETED"}
+{"prompt":"check set  ->","completion":" Lights as required "}
+{"prompt":"?  ->","completion":" Landing Gear "}
+{"prompt":"lower nose wheel  ->","completion":" After touchdown Apply Reverse Thrust at "}
+{"prompt":"checked set  ->","completion":" Autopilot and "}
+{"prompt":"before take-off checklist ->","completion":" Parking Brake "}
+{"prompt":"check up  ->","completion":" Landing Gear "}
+{"prompt":"on  ->","completion":" Heading Indicator "}
+{"prompt":"8-10 .  ->","completion":" safety speed "}
+{"prompt":"on  ->","completion":" Taxi Lights "}
+{"prompt":"check  ->","completion":" Takeoff Data "}
+{"prompt":"proper ind .  ->","completion":" Turn Coordinator during turns "}
+{"prompt":"4  ->","completion":" Cruise Checklist (above FL 180) COMPLETED"}
+{"prompt":"on  ->","completion":" Landing Lights "}
+{"prompt":"off  ->","completion":" Flaps "}
+{"prompt":"test\/check  ->","completion":" Request Clearance "}
+{"prompt":"apu start \/ check run  ->","completion":" Gen "}
+{"prompt":"beech baron 58.pdf ->","completion":" Descent Checklist"}
+{"prompt":"set  ->","completion":" Throttle "}
+{"prompt":"on  ->","completion":" Hydraulic Pump Switches "}
+{"prompt":"5-10  ->","completion":" Speed Establish "}
+{"prompt":"shutdown checklist ->","completion":" Parking Brake "}
+{"prompt":"on as required  ->","completion":" Autofeather "}
+{"prompt":"as required  ->","completion":" Fuel Boost Pumps "}
+{"prompt":"on  ->","completion":" Pre-Start Checklist COMPLETED"}
+{"prompt":"30 full  ->","completion":" Final Glideslope Descent "}
+{"prompt":" ->","completion":" Landing Gear "}
+{"prompt":"bombardier crj700.pdf ->","completion":" Pre-Start Checklist"}
+{"prompt":"on  ->","completion":" Hydraulic Pump Switches "}
+{"prompt":"check  ->","completion":" Takeoff Data "}
+{"prompt":"set  ->","completion":" Landing Lights "}
+{"prompt":"retracted  ->","completion":" Flight Instruments "}
+{"prompt":"set  ->","completion":" Throttle "}
+{"prompt":"set  ->","completion":" Descent Speed ” "}
+{"prompt":"check  ->","completion":" Radios "}
+{"prompt":"up  ->","completion":" Propeller "}
+{"prompt":"pre-start checklist ->","completion":" Parking Brakes "}
+{"prompt":"1 = > 8  ->","completion":" Speed Establish "}
+{"prompt":"check  ->","completion":" Altimeter "}
+{"prompt":"on  ->","completion":" Landing Gear Lever "}
+{"prompt":"fl330 0.78 ( 285 kias )  ->","completion":" Engine+Instruments "}
+{"prompt":"idle  ->","completion":" Autofeather "}
+{"prompt":"cutoff  ->","completion":" Master Switch "}
+{"prompt":"down  ->","completion":" Turning toward runway set flaps degrees or "}
+{"prompt":" ->","completion":" Landing Gear "}
+{"prompt":"on  ->","completion":" Left Engine "}
+{"prompt":"250 kias  ->","completion":" Autothrottle and "}
+{"prompt":"boeing 737-800.pdf ->","completion":" Shutdown Checklist"}
+{"prompt":"off  ->","completion":" Landing Gear Lever "}
+{"prompt":"off  ->","completion":" Gen "}
+{"prompt":"off  ->","completion":" Landing Lights "}
+{"prompt":"10 .  ->","completion":" safety speed "}
+{"prompt":"set  ->","completion":" Throttle "}
+{"prompt":"test\/cherck  ->","completion":" Request Clearance "}
+{"prompt":"stabilize .  ->","completion":" Anti-ice "}
+{"prompt":"off  ->","completion":" Pitot Heat "}
+{"prompt":"boeing 737-800.pdf ->","completion":" Landing Checklist"}
+{"prompt":"off  ->","completion":" Battery Switch when "}
+{"prompt":"takeoff setting  ->","completion":" Taxi To Ramp COMPLETED"}
+{"prompt":"fl330 0.85 ( 315 kias )  ->","completion":" Engine+Instruments "}
+{"prompt":"check set  ->","completion":" Landing Lights "}
+{"prompt":"clear  ->","completion":" Engine Start Switches "}
+{"prompt":" ->","completion":" Starter Switch "}
+{"prompt":"check up  ->","completion":" Flight Controls "}
+{"prompt":"as required  ->","completion":" Trim for fpm "}
+{"prompt":"set  ->","completion":" Throttle "}
+{"prompt":"( , )  ->","completion":" De-Ice "}
+{"prompt":"check  ->","completion":" Radios and "}
+{"prompt":",  ->","completion":" kts Cancel Reverse Thrust "}
+{"prompt":"3  ->","completion":" Before Take-off Checklist COMPLETED"}
+{"prompt":":  ->","completion":" Flaps Lever Position or "}
+{"prompt":"tuned set  ->","completion":" Lights "}
+{"prompt":"tuned set  ->","completion":" Autopilot and "}
+{"prompt":"\/ cutoff  ->","completion":" Fuel Selectors "}
+{"prompt":"10000 ' 300 kias  ->","completion":" Climb-out Checklist COMPLETED"}
+{"prompt":"set  ->","completion":" Throttle "}
+{"prompt":"60 :  ->","completion":" Spoilers "}
+{"prompt":": full down  ->","completion":" Final Glideslope Descent "}
+{"prompt":"check down  ->","completion":" Autopilot and all deactivated "}
+{"prompt":"clear  ->","completion":" Engine Start Switches "}
+{"prompt":"on  ->","completion":" No Smoking Sign "}
+{"prompt":"retracted  ->","completion":" Taxi Lights "}
+{"prompt":"lo  ->","completion":" Fuel Flow Mixture "}
+{"prompt":"full  ->","completion":" Brakes "}
+{"prompt":"check down  ->","completion":" Autopilot and Autothrottle "}
+{"prompt":"retracted  ->","completion":" Flight Instruments "}
+{"prompt":"fl240 0.75  ->","completion":" to mach "}
+{"prompt":"off  ->","completion":" Master Caution Display "}
+{"prompt":" ->","completion":" Landing Gear "}
+{"prompt":"check  ->","completion":" Avionics Master Switch "}
+{"prompt":"off  ->","completion":" Airspeed Torque "}
+{"prompt":"idle  ->","completion":" Propeller "}
+{"prompt":"off  ->","completion":" Strobe Light "}
+{"prompt":"approach checklist ->","completion":" Localizer Level Flight "}
+{"prompt":"taxi checklist ->","completion":" Parking Brake "}
+{"prompt":"off  ->","completion":" Strobe Light "}
+{"prompt":"cutoff  ->","completion":" Beacon "}
+{"prompt":"set for departure  ->","completion":" Autopilot don ‘ t activate "}
+{"prompt":"off  ->","completion":" Pitot Heat De-Ice "}
+{"prompt":"apu on  ->","completion":" Fuel Quantity "}
+{"prompt":"on  ->","completion":" Fasten Seat Belts "}
+{"prompt":"boeing 737-800.pdf ->","completion":" Startup Checklist"}
+{"prompt":"off  ->","completion":" Throttle Quadrant Display "}
+{"prompt":"f\/d off  ->","completion":" Master Starter Switches "}
+{"prompt":"on  ->","completion":" Request Takeoff Clearance "}
+{"prompt":"bombardier crj700.pdf ->","completion":" Cruise Checklist (above FL 180)"}
+{"prompt":"check  ->","completion":" Generator Switch "}
+{"prompt":"atc as required  ->","completion":" Fasten Seat Belts "}
+{"prompt":"set  ->","completion":" Landing Lights "}
+{"prompt":"on  ->","completion":" Repeat for right Engine "}
+{"prompt":"before take-off checklist ->","completion":" Brakes "}
+{"prompt":"beech baron 58.pdf ->","completion":" Taxi Checklist"}
+{"prompt":"n1 n2 . check  ->","completion":" Generator Switch "}
+{"prompt":"on  ->","completion":" Auto Spoilers "}
+{"prompt":"180 kias 15  ->","completion":" Propeller "}
+{"prompt":"on  ->","completion":" Pitot Heat "}
+{"prompt":"set  ->","completion":" Throttle Verify "}
+{"prompt":"release  ->","completion":" descision "}
+{"prompt":"feather  ->","completion":" Beacon "}
+{"prompt":"set  ->","completion":" Throttle Verify "}
+{"prompt":"boeing 737-800.pdf ->","completion":" Landing Checklist"}
+{"prompt":"on  ->","completion":" Landing Gear Lever "}
+{"prompt":"takeoff setting  ->","completion":" Taxi To Ramp COMPLETED"}
+{"prompt":"check  ->","completion":" Radios "}
+{"prompt":"\/ full rich  ->","completion":" Elevator Trim for takeoff "}
+{"prompt":" ->","completion":" Engine Instruments "}
+{"prompt":"set  ->","completion":" Throttle Verify "}
+{"prompt":"check  ->","completion":" Taxi Checklist COMPLETED"}
+{"prompt":"off  ->","completion":" Landing Lights "}
+{"prompt":": 210 kias  ->","completion":" Landing Lights "}
+{"prompt":"off  ->","completion":" Nav Light "}
+{"prompt":"on  ->","completion":" Anti-Ice "}
+{"prompt":"proper ind .  ->","completion":" Turn Coordinator during turns "}
+{"prompt":"15-20  ->","completion":" Speed Establish "}
+{"prompt":"( v1 , vr , v2 ) check  ->","completion":" Nav Equipment "}
+{"prompt":"speed . 20  ->","completion":" Brakes during taxi "}
+{"prompt":"boeing 737-800.pdf ->","completion":" Taxi To Ramp"}
+{"prompt":"set  ->","completion":" Throttle "}
+{"prompt":":  ->","completion":" Speed Establish "}
+{"prompt":"on ( )  ->","completion":" Right and Turbine "}
+{"prompt":"on  ->","completion":" Auto Spoilers "}
+{"prompt":"retract  ->","completion":" At Flaps to deg "}
+{"prompt":"retract  ->","completion":" Taxi Lights "}
+{"prompt":"on  ->","completion":" Landing Lights "}
+{"prompt":"off  ->","completion":" Anti-ice "}
+{"prompt":"check down  ->","completion":" Autopilot and Autothrottle "}
+{"prompt":"f\/d on  ->","completion":" Elevator Trim for takeoff "}
+{"prompt":"full  ->","completion":" Brakes "}
+{"prompt":"check down  ->","completion":" Flaps "}
+{"prompt":"retract  ->","completion":" At Flaps to deg "}
+{"prompt":"on  ->","completion":" Taxi Lights "}
+{"prompt":"beech king air 350.pdf ->","completion":" Climb-out Checklist"}
+{"prompt":":  ->","completion":" Fasten Seat Belts "}
+{"prompt":"retracted  ->","completion":" Taxi Lights "}
+{"prompt":"on\/cont  ->","completion":" Left Engine "}
+{"prompt":" ->","completion":" Transponder "}
+{"prompt":"beech king air 350.pdf ->","completion":" Before Taxi Checklist"}
+{"prompt":"off  ->","completion":" Master Caution Display "}
+{"prompt":"startup checklist ->","completion":" Engine and Propeller Area "}
+{"prompt":"beech baron 58.pdf ->","completion":" Startup Checklist"}
+{"prompt":"off  ->","completion":" Below max speed "}
+{"prompt":"set  ->","completion":" Standby Instruments "}
+{"prompt":"8  ->","completion":" Spoilers "}
+{"prompt":"fl280 0.78 ( 320 kias )  ->","completion":" mach "}
+{"prompt":"apu on \/ check volts  ->","completion":" Avionics Radios "}
+{"prompt":"on  ->","completion":" Check Weather Atis Flight Services "}
+{"prompt":": full down  ->","completion":" Final Glideslope Descent "}
+{"prompt":"batt off  ->","completion":" Shutdown Checklist COMPLETED"}
+{"prompt":"check down  ->","completion":" Autopilot and Autothrottle "}
+{"prompt":"high rpm  ->","completion":" Final Glideslope Descent "}
+{"prompt":"10000 ' 280 kias  ->","completion":" Climb-out Checklist COMPLETED"}
+{"prompt":"release  ->","completion":" descision "}
+{"prompt":"10  ->","completion":" Spoilers "}
+{"prompt":"2  ->","completion":" Startup Checklist COMPLETED"}
+{"prompt":"off  ->","completion":" Speed Max knots "}
+{"prompt":"idle  ->","completion":" Engine Area "}
+{"prompt":"check  ->","completion":" Pitot Heat De-Ice "}
+{"prompt":"off  ->","completion":" Shutdown Checklist COMPLETED"}
+{"prompt":"take-off checklist ->","completion":" Smoothly increase thrust to let spool up "}
+{"prompt":"clear  ->","completion":" Fuel Pump Switches "}
+{"prompt":"off  ->","completion":" Fuel Flow Mixture "}
+{"prompt":"off  ->","completion":" Taxi Lights "}
+{"prompt":"off  ->","completion":" Anti-ice "}
+{"prompt":"off  ->","completion":" Master Caution Display "}
+{"prompt":"1 start ( )  ->","completion":" At Fuel Flow Eng "}
+{"prompt":"fl330 0.85 ( 315 kias )  ->","completion":" Engine+Instruments "}
+{"prompt":"boeing 737-800.pdf ->","completion":" Pre-Start Checklist"}
+{"prompt":"+ set  ->","completion":" Speed Establish "}
+{"prompt":"off  ->","completion":" Landing Speed "}
+{"prompt":",  ->","completion":" kts Cancel Reverse Thrust "}
+{"prompt":"135 kias  ->","completion":" After touchdown Apply Reverse Thrust at "}
+{"prompt":"set  ->","completion":" Standby Instruments "}
+{"prompt":"check down  ->","completion":" Autopilot and Autothrottle "}
+{"prompt":"shutdown checklist ->","completion":" Parking Brake "}
+{"prompt":"check down  ->","completion":" Autopilot and all deactivated "}
+{"prompt":"beech baron 58.pdf ->","completion":" Landing Checklist"}
+{"prompt":"descent checklist ->","completion":" Atis\/Airport Information "}
+{"prompt":"full to\/ga  ->","completion":" Brakes "}
+{"prompt":"\/ . on  ->","completion":" Pre-Start Checklist COMPLETED"}
+{"prompt":". 20  ->","completion":" Cowl Flaps "}
+{"prompt":"on  ->","completion":" Landing Lights "}
+{"prompt":"on  ->","completion":" Taxi Lights "}
+{"prompt":"check  ->","completion":" Cowl Flaps "}
+{"prompt":"set  ->","completion":" Fuel Quantity "}
+{"prompt":"retracted  ->","completion":" Fuel Quantity "}
+{"prompt":"check  ->","completion":" Altimeter "}
+{"prompt":"off  ->","completion":" Landing Checklist COMPLETED"}
+{"prompt":"on  ->","completion":" Avionics Radios "}
+{"prompt":"climb-out checklist ->","completion":" Throttle "}
+{"prompt":". full  ->","completion":" Anti-ice "}
+{"prompt":"startup checklist ->","completion":" Engine and Propeller Area "}
+{"prompt":"idle  ->","completion":" Passenger Signs "}
+{"prompt":"off  ->","completion":" Landing Checklist COMPLETED"}
+{"prompt":". 20  ->","completion":" Transponder "}
+{"prompt":"main wheels first  ->","completion":" Landing Roll "}
+{"prompt":"4  ->","completion":" Cruise Checklist (above FL 180) COMPLETED"}
+{"prompt":"on  ->","completion":" Taxi Lights "}
+{"prompt":"on  ->","completion":" Left Engine "}
+{"prompt":"erect  ->","completion":" Taxi Checklist COMPLETED"}
+{"prompt":"cutoff  ->","completion":" Beacon "}
+{"prompt":"v1 = 145 kias ( )  ->","completion":" Vr rotate "}
+{"prompt":"set  ->","completion":" Radios and Avionics "}
+{"prompt":"check down  ->","completion":" Cowl Flaps "}
+{"prompt":"on  ->","completion":" Taxi Lights "}
+{"prompt":"before take-off checklist ->","completion":" Parking Brake "}
+{"prompt":"off  ->","completion":" Below max speed "}
+{"prompt":"release  ->","completion":" descision "}
+{"prompt":"2  ->","completion":" Startup Checklist COMPLETED"}
+{"prompt":"up  ->","completion":" Spoiler "}
+{"prompt":"\/ cutoff  ->","completion":" Fuel Selectors "}
+{"prompt":"illuminated  ->","completion":" Request Clearance "}
+{"prompt":"fl280 0.78 ( 320 kias )  ->","completion":" mach "}
+{"prompt":"idle  ->","completion":" Propeller "}
+{"prompt":"startup checklist ->","completion":" Engine and Propeller Area "}
+{"prompt":"take-off checklist ->","completion":" Smoothly increase thrust to "}
+{"prompt":"1600 rpm  ->","completion":" Engine Instruments "}
+{"prompt":"off  ->","completion":" Flaps "}
+{"prompt":"set  ->","completion":" Throttle "}
+{"prompt":"f\/d off  ->","completion":" Avionics Switch "}
+{"prompt":". 4 - 3 - 2  ->","completion":" Anti-Ice "}
+{"prompt":"tuned set  ->","completion":" Autopilot and "}
+{"prompt":"taxi checklist ->","completion":" Parking Brake "}
+{"prompt":"fuel press lo extinguished  ->","completion":" Right Annunciator "}
+{"prompt":"take-off checklist ->","completion":" Smoothly increase thrust to let spool up "}
+{"prompt":"set  ->","completion":" Landing Lights "}
+{"prompt":"on  ->","completion":" Pre-Start Checklist COMPLETED"}
+{"prompt":"idle  ->","completion":" Propeller "}
+{"prompt":"up  ->","completion":" Propeller "}
+{"prompt":"on  ->","completion":" Landing Gear Lever "}
+{"prompt":"set  ->","completion":" Radios and Avionics "}
+{"prompt":"lower nose wheel  ->","completion":" After touchdown Apply Reverse Thrust at "}
+{"prompt":"off  ->","completion":" Landing Gear Lever "}
+{"prompt":"\/ full rich  ->","completion":" Speed Establish ” "}
+{"prompt":"check  ->","completion":" Altimeter "}
+{"prompt":"on  ->","completion":" Fuel Quantity "}
+{"prompt":"arm  ->","completion":" Descent Speed Torque "}
+{"prompt":". 20  ->","completion":" Elevator Trim "}
+{"prompt":"idle  ->","completion":" Fuel Flow Fuel Cond Lever "}
+{"prompt":"pre-start checklist ->","completion":" Parking Brake "}
+{"prompt":"check up  ->","completion":" Landing Gear "}
+{"prompt":"descent checklist ->","completion":" Atis\/Airport Information "}
+{"prompt":"bombardier crj700.pdf ->","completion":" Taxi Checklist"}
+{"prompt":"250 kias  ->","completion":" Autothrottle and "}
+{"prompt":"bombardier crj700.pdf ->","completion":" Landing Checklist"}
+{"prompt":"up  ->","completion":" Spoilers "}
+{"prompt":"free and correct  ->","completion":" Radios and Avionics "}
+{"prompt":"as required  ->","completion":" Landing Checklist COMPLETED"}
+{"prompt":"beech king air 350.pdf ->","completion":" Securing Aircraft"}
+{"prompt":"landing checklist ->","completion":" Autoland Available "}
+{"prompt":"down  ->","completion":" Turning toward runway set flaps "}
+{"prompt":"( fl180 )  ->","completion":" to "}
+{"prompt":"boeing 737-800.pdf ->","completion":" Startup Checklist"}
+{"prompt":"idle  ->","completion":" All Switches Verify "}
+{"prompt":"( fl180 ) 29,92 '' ( )  ->","completion":" Climb-out Checklist COMPLETED"}
+{"prompt":"bombardier crj700.pdf ->","completion":" Landing Checklist"}
+{"prompt":"6  ->","completion":" Securing Aircraft COMPLETED"}
+{"prompt":"check  ->","completion":" Directional Gyro during turns "}
+{"prompt":"set for departure  ->","completion":" Autopilot don ‘ t activate "}
+{"prompt":"& off  ->","completion":" Fuel Pump Switches "}
+{"prompt":" ->","completion":" Transponder "}
+{"prompt":"5  ->","completion":" Landing Checklist COMPLETED"}
+{"prompt":"on  ->","completion":" Request Takeoff Clearance "}
+{"prompt":"\/ set  ->","completion":" Instruments "}
+{"prompt":"250 kias \/ 1800  ->","completion":" Autopilot\/Autothrottle and "}
+{"prompt":"idle  ->","completion":" All Switches Verify "}
+{"prompt":"v2 = 185 kias ( )  ->","completion":" At Positive Climb Rate Touch Brakes "}
+{"prompt":"rto  ->","completion":" Elevator Trim for takeoff "}
+{"prompt":"\/ full rich  ->","completion":" Speed Establish ” "}
+{"prompt":"set  ->","completion":" Throttle "}
+{"prompt":"( , )  ->","completion":" De-Ice "}
+{"prompt":"set  ->","completion":" Throttle "}
+{"prompt":"off  ->","completion":" Flaps "}
+{"prompt":"250 kias  ->","completion":" Fuel Quantities and Balance "}
+{"prompt":"as required  ->","completion":" Transponder "}
+{"prompt":"f\/d off  ->","completion":" Avionics "}
+{"prompt":": 1 - 4 - 3 - 2  ->","completion":" Eng Start Switch hold "}
+{"prompt":"off  ->","completion":" Nav Lights "}
+{"prompt":":  ->","completion":" Fasten Seat Belts "}
+{"prompt":" ->","completion":" Before Taxi Checklist COMPLETED"}
+{"prompt":":  ->","completion":" Speed Establish "}
+{"prompt":"on  ->","completion":" Landing Gear Lever "}
+{"prompt":"off  ->","completion":" Speed Max knots "}
+{"prompt":"on  ->","completion":" Pitot Heat "}
+{"prompt":"check set  ->","completion":" Lights as required "}
+{"prompt":"check  ->","completion":" Taxi Checklist COMPLETED"}
+{"prompt":"v2 115 kias  ->","completion":" Pitch degrees "}
+{"prompt":" ->","completion":" Before Taxi Checklist COMPLETED"}
+{"prompt":"35 000  ->","completion":" Engine+Instruments "}
+{"prompt":"n1 n2 . check  ->","completion":" Repeat for Eng "}
+{"prompt":",  ->","completion":" kts Cancel Reverse Thrust "}
+{"prompt":"full  ->","completion":" Autopilot and "}
+{"prompt":"startup checklist ->","completion":" Engine and Propeller Area "}
+{"prompt":": full down  ->","completion":" Propeller "}
+{"prompt":"check activate  ->","completion":" Autobrake "}
+{"prompt":"beech king air 350.pdf ->","completion":" Startup Checklist"}
+{"prompt":"10 .  ->","completion":" safety speed "}
+{"prompt":"idle  ->","completion":" Fuel Flow "}
+{"prompt":"beech king air 350.pdf ->","completion":" Cruise Checklist"}
+{"prompt":"retracted  ->","completion":" Fuel Quantity "}
+{"prompt":"set  ->","completion":" Throttle "}
+{"prompt":"set  ->","completion":" Anti-Ice "}
+{"prompt":"release  ->","completion":" descision "}
+{"prompt":"check  ->","completion":" Strobe Light "}
+{"prompt":"4  ->","completion":" Cruise Checklist COMPLETED"}
+{"prompt":"takeoff setting  ->","completion":" Avionics "}
+{"prompt":"release  ->","completion":" descision "}
+{"prompt":"before taxi checklist ->","completion":" Nav Lights "}
+{"prompt":"boeing 747-400.pdf ->","completion":" Take-off Checklist"}
+{"prompt":"set  ->","completion":" Flight Controls "}
+{"prompt":"on  ->","completion":" At Fuel Flow "}
+{"prompt":"check  ->","completion":" Directional Gyro during turns "}
+{"prompt":"clear  ->","completion":" Throttle "}
+{"prompt":"on  ->","completion":" Flaps "}
+{"prompt":"off  ->","completion":" Alternator Switches "}
+{"prompt":"( fl180 ) 29,92 '' ( )  ->","completion":" Accelerate to cruise speed mach "}
+{"prompt":"off  ->","completion":" Landing Speed "}
+{"prompt":"f\/d off  ->","completion":" Avionics Switch "}
+{"prompt":"idle ,  ->","completion":" Right Magneto and Engine Start Switch hold until engine starts "}
+{"prompt":"retracted  ->","completion":" Flight Instruments "}
+{"prompt":"up  ->","completion":" Spoiler "}
+{"prompt":"on  ->","completion":" Auto Spoilers "}
+{"prompt":"taxi checklist ->","completion":" Parking Brake "}
+{"prompt":"f\/d on  ->","completion":" Yaw Damper "}
+{"prompt":"cruise checklist ->","completion":" Accelerate to cruise speed ft ” "}
+{"prompt":"gnd \/ ign both  ->","completion":" Fuel Pump Switches "}
+{"prompt":"check  ->","completion":" Strobe Light "}
+{"prompt":"as required  ->","completion":" Trim for "}
+{"prompt":"as required  ->","completion":" Trim for fpm "}
+{"prompt":"set  ->","completion":" De-Ice "}
+{"prompt":"free and correct  ->","completion":" Passenger Signs "}
+{"prompt":"approach checklist ->","completion":" Localizer Level Flight "}
+{"prompt":"set  ->","completion":" Throttle "}
+{"prompt":"on  ->","completion":" Request Takeoff Clearance "}
+{"prompt":"check  ->","completion":" Radios "}
+{"prompt":":  ->","completion":" Speed Establish "}
+{"prompt":"itt n1 rpm monitor  ->","completion":" Right Annunciator "}
+{"prompt":"idle  ->","completion":" Elevator Trim for takeoff "}
+{"prompt":"climb-out checklist ->","completion":" Propeller Synchrophaser "}
+{"prompt":"beech baron 58.pdf ->","completion":" Shutdown Checklist"}
+{"prompt":"verify off  ->","completion":" Approach Checklist COMPLETED"}
+{"prompt":"== >  ->","completion":" Feather\/Unfeather Props once "}
+{"prompt":"idle  ->","completion":" Elevator Trim for takeoff "}
+{"prompt":"test\/check  ->","completion":" Anti-ice Annunciators "}
+{"prompt":"check  ->","completion":" Right Alternator "}
+{"prompt":". 4 - 3 - 2  ->","completion":" Anti-Ice "}
+{"prompt":"before taxi checklist ->","completion":" Nav Lights "}
+{"prompt":"check  ->","completion":" Radios and "}
+{"prompt":"off  ->","completion":" Beacon Anti Collision Lights "}
+{"prompt":"2  ->","completion":" Startup Checklist COMPLETED"}
+{"prompt":"tuned set  ->","completion":" Autopilot and "}
+{"prompt":"1600 rpm  ->","completion":" Flaps "}
+{"prompt":"check set  ->","completion":" Lights as required "}
+{"prompt":"fl240 0.75 ( 330 kias )  ->","completion":" mach "}
+{"prompt":"taxi to ramp ->","completion":" Strobe Light "}
+{"prompt":"release  ->","completion":" Taxi to assigned runway Max knots "}
+{"prompt":"fl120 280 kias  ->","completion":" below 10'000ft "}
+{"prompt":"fl180 0.67 ( 330 kias )  ->","completion":" mach "}
+{"prompt":"\/ . on  ->","completion":" Right Ignition and Engine Start Switch hold until engine starts "}
+{"prompt":"checked set  ->","completion":" Autopilot and "}
+{"prompt":"apu on \/ check volts  ->","completion":" Fuel Quantity "}
+{"prompt":"start ( )  ->","completion":" Right Oil Pressure 10psi "}
+{"prompt":"250 kias  ->","completion":" Fuel Quantities and Balance "}
+{"prompt":"check  ->","completion":" Engine Instruments "}
+{"prompt":" ->","completion":" Before Taxi Checklist COMPLETED"}
+{"prompt":"beech king air 350.pdf ->","completion":" Pre-Start Checklist"}
+{"prompt":"on  ->","completion":" Hydraulic Pump Switches "}
+{"prompt":"200 kias retract  ->","completion":" Take-off Checklist COMPLETED"}
+{"prompt":"5  ->","completion":" Landing Checklist COMPLETED"}
+{"prompt":"proper ind .  ->","completion":" Turn Coordinator during turns "}
+{"prompt":"f\/d on  ->","completion":" Autobrake "}
+{"prompt":"3  ->","completion":" Before Take-off Checklist COMPLETED"}
+{"prompt":"boeing 747-400.pdf ->","completion":" Approach Checklist"}
+{"prompt":"check  ->","completion":" Fuel Quantity "}
+{"prompt":": 155 kias  ->","completion":" Landing Gear "}
+{"prompt":"250 kias \/ 1800  ->","completion":" Autopilot\/Autothrottle and "}
+{"prompt":"batt on ( )  ->","completion":" Panel Lights as required "}
+{"prompt":"before take-off checklist ->","completion":" Parking Brake "}
+{"prompt":"verify off  ->","completion":" Approach Checklist COMPLETED"}
+{"prompt":"off  ->","completion":" Flaps "}
+{"prompt":"off  ->","completion":" Nav Lights "}
+{"prompt":"check  ->","completion":" Master Warning Display "}
+{"prompt":"idle  ->","completion":" Flaps deg "}
+{"prompt":"v1 = 165 kias ( )  ->","completion":" Vr rotate "}
+{"prompt":"apu on  ->","completion":" Avionics Radios "}
+{"prompt":"\/ full rich  ->","completion":" Elevator Trim for takeoff "}
+{"prompt":"pre-start checklist ->","completion":" Parking Brake "}
+{"prompt":"on  ->","completion":" Panel Lights if required "}
+{"prompt":"140 kias  ->","completion":" Parking Brake "}
+{"prompt":"verify off  ->","completion":" De-Ice "}
+{"prompt":"off  ->","completion":" Flaps "}
+{"prompt":"securing aircraft ->","completion":" Parking Brake Verify "}
+{"prompt":"210 kias retract  ->","completion":" Take-off Checklist COMPLETED"}
+{"prompt":"v1 = 105 kias ( )  ->","completion":" Vr rotate "}
+{"prompt":"before taxi checklist ->","completion":" Nav Lights "}
+{"prompt":": 130 kias 35  ->","completion":" Landing Gear "}
+{"prompt":"( fl180 )  ->","completion":" to "}
+{"prompt":"on  ->","completion":" Landing Lights "}
+{"prompt":"as required  ->","completion":" Speed Establish Torque "}
+{"prompt":"takeoff setting  ->","completion":" Avionics "}
+{"prompt":"mfd eicas2  ->","completion":" Engine Starting Sequence "}
+{"prompt":"on  ->","completion":" Flaps "}
+{"prompt":" ->","completion":" Before Taxi Checklist COMPLETED"}
+{"prompt":": 130 kias 35  ->","completion":" Landing Gear "}
+{"prompt":"on  ->","completion":" Taxi Lights "}
+{"prompt":"2  ->","completion":" Startup Checklist COMPLETED"}
+{"prompt":"off  ->","completion":" Speed Max knots "}
+{"prompt":"140 kias  ->","completion":" Parking Brake "}
+{"prompt":"idle  ->","completion":" Autofeather "}
+{"prompt":"off  ->","completion":" Airspeed ” "}
+{"prompt":"check  ->","completion":" Flight controls "}
+{"prompt":"on  ->","completion":" Anti-Ice "}
+{"prompt":"startup checklist ->","completion":" Thrust Levers "}
+{"prompt":"on  ->","completion":" Heading Indicator Altimeter "}
+{"prompt":"= 90 kias ( )  ->","completion":" Pitch degrees "}
+{"prompt":"as desired  ->","completion":" Taxi To Ramp COMPLETED"}
+{"prompt":"60 :  ->","completion":" Spoilers "}
+{"prompt":"shutdown checklist ->","completion":" Parking Brake "}
+{"prompt":"proper ind .  ->","completion":" Turn Coordinator during turns "}
+{"prompt":"( atis , )  ->","completion":" Descent Checklist COMPLETED"}
+{"prompt":"as required  ->","completion":" Trim for "}
+{"prompt":"set  ->","completion":" Radios and Avionics "}
+{"prompt":"off  ->","completion":" Fuel Flow "}
+{"prompt":"f\/d off  ->","completion":" Avionics Switch "}
+{"prompt":"off  ->","completion":" Gen "}
+{"prompt":"oil press lo extinguished  ->","completion":" Right Oil Pressure "}
+{"prompt":"mfd eicas2  ->","completion":" Engine Starting Sequence "}
+{"prompt":"checked set  ->","completion":" Autopilot and "}
+{"prompt":"shutdown checklist ->","completion":" Parking Brake "}
+{"prompt":"down  ->","completion":" Turning toward runway set flaps "}
+{"prompt":"fl330 0.78 ( 285 kias )  ->","completion":" Engine+Instruments "}
+{"prompt":"descent checklist ->","completion":" Atis\/Airport Information "}
+{"prompt":"& off  ->","completion":" Battery Alternator Switches "}
+{"prompt":"fl330 0.78 ( 285 kias )  ->","completion":" Engine+Instruments "}
+{"prompt":": 120 kias 2350 rpm 18  ->","completion":" Landing Gear "}
+{"prompt":"cruise checklist ->","completion":" Accelerate to cruise speed Torque "}
+{"prompt":"idle  ->","completion":" All Switches Verify "}
+{"prompt":"set  ->","completion":" Flight Controls "}
+{"prompt":"gnd \/ ign both  ->","completion":" Fuel Pump Switches "}
+{"prompt":"verify off  ->","completion":" De-Ice "}
+{"prompt":"high rpm  ->","completion":" Fuel Cond Lever "}
+{"prompt":"on  ->","completion":" Request Takeoff Clearance "}
+{"prompt":". 20  ->","completion":" Elevator Trim "}
+{"prompt":"idle  ->","completion":" Flaps deg "}
+{"prompt":"5  ->","completion":" Approach Checklist COMPLETED"}
+{"prompt":"cutoff  ->","completion":" Master Switch "}
+{"prompt":":  ->","completion":" Landing Lights "}
+{"prompt":"bombardier crj700.pdf ->","completion":" Shutdown Checklist"}
+{"prompt":"cruise checklist (above fl 180) ->","completion":" At Transition Altitude set Altimeter to 1013mb "}
+{"prompt":"down  ->","completion":" Turning toward runway set flaps degrees or "}
+{"prompt":"set  ->","completion":" Flaps Lever Position "}
+{"prompt":"idle  ->","completion":" Fuel Boost Pumps "}
+{"prompt":"approach checklist ->","completion":" Localizer Level Flight "}
+{"prompt":"on  ->","completion":" Pre-Start Checklist COMPLETED"}
+{"prompt":"on  ->","completion":" Taxi Lights "}
+{"prompt":"on , set ,  ->","completion":" Autothrottle don ‘ t activate "}
+{"prompt":"apu start \/ check run  ->","completion":" Gen "}
+{"prompt":"on  ->","completion":" No Smoking Sign "}
+{"prompt":"15-20  ->","completion":" Speed Establish "}
+{"prompt":"rto  ->","completion":" Elevator Trim for takeoff "}
+{"prompt":"off  ->","completion":" Nav Lights "}
+{"prompt":"as required  ->","completion":" Transponder "}
+{"prompt":"105 kias 2700 rpm 18  ->","completion":" Annunciator Lights "}
+{"prompt":"n2 > 20 % check on  ->","completion":" increasing as incr "}
+{"prompt":"( atis , )  ->","completion":" Descent Checklist COMPLETED"}
+{"prompt":"on  ->","completion":" Check Weather Flight Services "}
+{"prompt":"arm  ->","completion":" Anti-ice "}
+{"prompt":"off  ->","completion":" Autothrottle and deactivated "}
+{"prompt":"boeing 747-400.pdf ->","completion":" Before Taxi Checklist"}
+{"prompt":"off  ->","completion":" Alternator Switches "}
+{"prompt":"check up  ->","completion":" Fuel Balance "}
+{"prompt":": 145 kias 2350 rpm 18  ->","completion":" Flaps "}
+{"prompt":"check extinguished  ->","completion":" Repeat for left engine "}
+{"prompt":"check  ->","completion":" Directional Gyro during turns "}
+{"prompt":"5  ->","completion":" Approach Checklist COMPLETED"}
+{"prompt":" ->","completion":" Transponder "}
+{"prompt":"landing checklist ->","completion":" Landing Gear "}
+{"prompt":"off  ->","completion":" Flight controls "}
+{"prompt":"10-15  ->","completion":" At Positive Climb Rate Touch Brakes "}
+{"prompt":"on  ->","completion":" Heading Indicator Altimeter "}
+{"prompt":"check  ->","completion":" Radios "}
+{"prompt":"\/ full rich  ->","completion":" Fuel Boost Pumps "}
+{"prompt":"on  ->","completion":" Autopilot and "}
+{"prompt":"check  ->","completion":" Cowl Flaps "}
+{"prompt":"check  ->","completion":" Right Generator "}
+{"prompt":" ->","completion":" Gear Lever "}
+{"prompt":"speed . 20  ->","completion":" Taxi Checklist COMPLETED"}
+{"prompt":"off  ->","completion":" Below max speed "}
+{"prompt":"on  ->","completion":" Landing Lights "}
+{"prompt":"takeoff setting  ->","completion":" Avionics\/Radios "}
+{"prompt":"normal operation  ->","completion":" Radios and Avionics and "}
+{"prompt":"on  ->","completion":" Heading Indicator\/Altimeters "}
+{"prompt":"4  ->","completion":" Cruise Checklist COMPLETED"}
+{"prompt":"beech king air 350.pdf ->","completion":" Taxi Checklist"}
+{"prompt":"check  ->","completion":" Flaps Landing Gear "}
+{"prompt":"check  ->","completion":" Radios "}
+{"prompt":"check down , 3 green  ->","completion":" Autopilot "}
+{"prompt":"v1 = 85 kias ( )  ->","completion":" Vr rotate "}
+{"prompt":"check  ->","completion":" Fuel Quantity "}
+{"prompt":"( , )  ->","completion":" De-Ice "}
+{"prompt":"\/ off  ->","completion":" Hydraulic Pump Switches "}
+{"prompt":"cruise checklist (above fl 180) ->","completion":" At Transition Altitude set Altimeter to 1013mb "}
+{"prompt":"20  ->","completion":" Speed Establish "}
+{"prompt":"climb-out checklist ->","completion":" Propeller Synchrophaser "}
+{"prompt":"180 kias 15  ->","completion":" Propeller "}
+{"prompt":"on  ->","completion":" Auto Spoilers "}
+{"prompt":"set  ->","completion":" Throttle "}
+{"prompt":". 20  ->","completion":" Transponder "}
+{"prompt":". full  ->","completion":" Anti-ice "}
+{"prompt":"bombardier crj700.pdf ->","completion":" Approach Checklist"}
+{"prompt":"n2 > 20 % check on  ->","completion":" increasing as incr "}
+{"prompt":"check off  ->","completion":" Engine Instruments "}
+{"prompt":"check  ->","completion":" Landing Lights "}
+{"prompt":"approach checklist ->","completion":" Localizer Level Flight "}
+{"prompt":"\/ set  ->","completion":" Instruments "}
+{"prompt":"off  ->","completion":" Speed Max knots "}
+{"prompt":"off  ->","completion":" Fuel Pump Switches "}
+{"prompt":"\/ off  ->","completion":" Flight controls "}
+{"prompt":"check  ->","completion":" Cowl Flaps "}
+{"prompt":"free and correct  ->","completion":" Elevator Trim "}
+{"prompt":"off  ->","completion":" Cowl Flaps "}
+{"prompt":"set for departure  ->","completion":" Autopilot don ‘ t activate "}
+{"prompt":"220 kias retract  ->","completion":" Take-off Checklist COMPLETED"}
+{"prompt":"speed . 20  ->","completion":" Taxi Checklist COMPLETED"}
+{"prompt":"off  ->","completion":" Check Weather Atis Flight Services "}
+{"prompt":"on  ->","completion":" No Smoking Sign "}
+{"prompt":":  ->","completion":" Flaps Lever Position or "}
+{"prompt":"on  ->","completion":" Taxi Lights "}
+{"prompt":"high rpm  ->","completion":" Final Glideslope Descent "}
+{"prompt":"pre-start checklist ->","completion":" Parking Brake "}
+{"prompt":"off  ->","completion":" Landing Speed "}
