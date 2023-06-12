@@ -7,22 +7,23 @@ import json
 def prepare_to_JSONL(values, section_name, file_name):
     res = []
 
+    res.append({'prompt': file_name, 'completion': section_name})
     for idx, item in enumerate(values):
-        curr = {'prompt': '', 'completion': ''}
+        curr = {'prompt': item['q'], 'completion': item['a']}
 
-        if idx == 0:
-            curr['prompt'] = section_name # ask for title of the current checklist
-            curr['completion'] = item['q'] # responds the prompt to the first question
-        elif idx == (len(values) - 1):
-            curr['prompt'] = values[idx]['a'] # ask for the last answer of the current checklist
-            curr['completion'] = section_name + ' COMPLETED' # responds with checklist completion
-        else:
-            curr['prompt'] = values[idx -1]['a'] # ask for the last answer we gave
-            curr['completion'] = item['q'] # responds with the next checklist item
+        # if idx == 0:
+        #     res.append({'prompt': file_name, 'completion': section_name}) # add the aircraft name as the first item to make training easier
+        #     curr['prompt'] = section_name # ask for title of the current checklist
+        #     curr['completion'] = item['q'] # responds the prompt to the first question
+        # elif idx == (len(values) - 1):
+        #     curr['prompt'] = values[idx]['a'] # ask for the last answer of the current checklist
+        #     curr['completion'] = section_name + ' COMPLETED' # responds with checklist completion
+        # else:
+        #     curr['prompt'] = values[idx -1]['a'] # ask for the last answer we gave
+        #     curr['completion'] = item['q'] # responds with the next checklist item
 
         res.append(curr)
 
-    res.insert(0, {'prompt': file_name, 'completion': res[0]['prompt']})
     return res
 
 def extract_title(text):
@@ -108,7 +109,7 @@ def main():
         pdf_file.close()
 
         for section in sections:
-            training_data.append({'aircraft': file, 'data': prepare_to_JSONL(section['values'], section['name'], file)})
+            training_data.append({'aircraft': file, 'data': prepare_to_JSONL(section['values'], section['name'], file.replace('.pdf', ''))})
         
     with open('training.jsonl', "w") as text_file:
         for item in training_data:

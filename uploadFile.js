@@ -4,7 +4,7 @@ import fs from 'fs'
 async function upload() {
     try {
         const response = await openai.createFile(
-            fs.createReadStream('./training_prepared_train.jsonl'),
+            fs.createReadStream('./training_prepared.jsonl'),
             "fine-tune"
         )
         console.log("File ID: ", response.data.id)
