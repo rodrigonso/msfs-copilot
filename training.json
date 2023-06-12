@@ -1,0 +1,162 @@
+{"prompt": "Pre-Start Checklist", "completion": "Parking Brakes "}
+{"prompt": "SET ", "completion": "Throttle "}
+{"prompt": "IDLE ", "completion": "Battery Switch "}
+{"prompt": "OFF ", "completion": "Avionics Master Switch "}
+{"prompt": "OFF ", "completion": "Master Caution Display "}
+{"prompt": "ON ", "completion": "Flaps "}
+{"prompt": "UP ", "completion": "Propeller "}
+{"prompt": "HIGH RPM ", "completion": "Fuel Cond Lever Ctrl-Shift-F1 "}
+{"prompt": ". FUEL CUTOFF ( ) ", "completion": "Landing Gear Lever "}
+{"prompt": "CHECK DOWN ", "completion": "Battery Switch "}
+{"prompt": "ON ", "completion": "Panel Lights if required "}
+{"prompt": "ON ", "completion": "Fuel Quantity "}
+{"prompt": "CHECK ", "completion": "Flight controls "}
+{"prompt": "CHECK ", "completion": "Avionics Master Switch "}
+{"prompt": "ON ", "completion": "Check Weather Flight Services "}
+{"prompt": "( ATIS , ) ", "completion": "Anti-ice Switch "}
+{"prompt": "TEST/CHECK ", "completion": "Anti-ice Annunciators "}
+{"prompt": "ILLUMINATED ", "completion": "Request Clearance "}
+{"prompt": "", "completion": "Transponder "}
+{"prompt": "STANDBY ", "completion": "Beacon "}
+{"prompt": "Startup Checklist", "completion": "Engine and Propeller Area "}
+{"prompt": "CLEAR ", "completion": "Throttle "}
+{"prompt": "IDLE ", "completion": "Fuel Flow Fuel Cond Lever "}
+{"prompt": "/ . ON ", "completion": "Right Ignition and Engine Start Switch hold until engine starts "}
+{"prompt": "ON ( ) ", "completion": "Right and Turbine "}
+{"prompt": "ITT N1 RPM MONITOR ", "completion": "Right Annunciator "}
+{"prompt": "FUEL PRESS LO EXTINGUISHED ", "completion": "Right Annunciator "}
+{"prompt": "OIL PRESS LO EXTINGUISHED ", "completion": "Right Oil Pressure "}
+{"prompt": "CHECK ", "completion": "Right Generator "}
+{"prompt": "ON ", "completion": "Repeat for left engine "}
+{"prompt": "== > ", "completion": "Feather/Unfeather Props once "}
+{"prompt": "CHECK ", "completion": "Master Warning Display "}
+{"prompt": "OFF ", "completion": "Master Caution Display "}
+{"prompt": "OFF ", "completion": "Throttle Quadrant Display "}
+{"prompt": "OFF ", "completion": "Engine Instruments "}
+{"prompt": "CHECK ", "completion": "Page "}
+{"prompt": "Taxi To Ramp", "completion": "Strobe Light "}
+{"prompt": "OFF ", "completion": "Flaps "}
+{"prompt": "RETRACT ", "completion": "Taxi Lights "}
+{"prompt": "ON ", "completion": "Landing Lights "}
+{"prompt": "OFF ", "completion": "Anti-ice "}
+{"prompt": "OFF ", "completion": "Speed Max knots "}
+{"prompt": ". 20 ", "completion": "Elevator Trim "}
+{"prompt": "TAKEOFF SETTING ", "completion": "Avionics/Radios "}
+{"prompt": "AS REQUIRED ", "completion": "Transponder "}
+{"prompt": "Shutdown Checklist", "completion": "Parking Brake "}
+{"prompt": "SET ", "completion": "Throttle "}
+{"prompt": "IDLE ", "completion": "Autofeather "}
+{"prompt": "OFF ", "completion": ""}
+{"prompt": "F/D OFF ", "completion": "Avionics Switch "}
+{"prompt": "OFF ", "completion": "Taxi Lights "}
+{"prompt": "OFF ", "completion": "Nav Lights "}
+{"prompt": "OFF ", "completion": "Pitot Heat "}
+{"prompt": "OFF ", "completion": "Fuel Cond Lever Ctrl-Shift-F1 "}
+{"prompt": ". CUTOFF ( ) ", "completion": "Propeller "}
+{"prompt": "FEATHER ", "completion": "Beacon "}
+{"prompt": "OFF ", "completion": "Panel Light "}
+{"prompt": "OFF ", "completion": "Battery Switch when "}
+{"prompt": "OFF N1 < 15 % ", "completion": "Generator Switches "}
+{"prompt": "Securing Aircraft", "completion": "Parking Brake Verify "}
+{"prompt": "SET ", "completion": "Throttle Verify "}
+{"prompt": "IDLE ", "completion": "All Switches Verify "}
+{"prompt": "OFF ", "completion": "Page "}
+{"prompt": "Before Taxi Checklist", "completion": "Nav Lights "}
+{"prompt": "ON ", "completion": "Taxi Lights "}
+{"prompt": "ON ", "completion": "Heading Indicator Altimeter "}
+{"prompt": "/ SET ", "completion": "Instruments "}
+{"prompt": "NORMAL OPERATION ", "completion": "Radios and Avionics and "}
+{"prompt": "CHECKED SET ", "completion": "Autopilot and "}
+{"prompt": "SET OFF ", "completion": ""}
+{"prompt": "F/D ON ", "completion": "Yaw Damper "}
+{"prompt": "ON AS REQUIRED ", "completion": "Autofeather "}
+{"prompt": "ARM ", "completion": "Anti-ice "}
+{"prompt": "AS REQUIRED ", "completion": "Request Taxi Clearance "}
+{"prompt": "Taxi Checklist", "completion": "Parking Brake "}
+{"prompt": "RELEASE ", "completion": "Taxi to assigned runway Max knots "}
+{"prompt": "SPEED . 20 ", "completion": "Brakes during taxi "}
+{"prompt": "CHECK ", "completion": "Directional Gyro during turns "}
+{"prompt": "PROPER IND . ", "completion": "Turn Coordinator during turns "}
+{"prompt": "PROPER IND . ", "completion": "Artificial Horizon during turns "}
+{"prompt": "Before Take-off Checklist", "completion": "Parking Brake "}
+{"prompt": "SET ", "completion": "Fuel Quantity "}
+{"prompt": "CHECK ", "completion": "Throttle "}
+{"prompt": "IDLE ", "completion": "Propeller "}
+{"prompt": "HIGH RPM ", "completion": "Elevator Trim for takeoff "}
+{"prompt": "SET ", "completion": "Flight Controls "}
+{"prompt": "FREE AND CORRECT ", "completion": "Radios and Avionics "}
+{"prompt": "SET ", "completion": "Landing Lights "}
+{"prompt": "ON ", "completion": "Taxi Lights "}
+{"prompt": "OFF ", "completion": "Engine Instruments "}
+{"prompt": "CHECK ", "completion": "Annunciator Lights "}
+{"prompt": "CHECK ", "completion": "Strobe Light "}
+{"prompt": "ON ", "completion": "Pitot Heat "}
+{"prompt": "ON ", "completion": "Anti-ice "}
+{"prompt": "AS REQUIRED ", "completion": "Transponder "}
+{"prompt": "ON ", "completion": "Request Takeoff Clearance "}
+{"prompt": "", "completion": "Page "}
+{"prompt": "Take-off Checklist", "completion": "Smoothly increase thrust to "}
+{"prompt": "FULL ", "completion": "Brakes "}
+{"prompt": "RELEASE ", "completion": "descision "}
+{"prompt": "V1 = 105 KIAS ( ) ", "completion": "Vr rotate "}
+{"prompt": "= 110 KIAS ( ) ", "completion": ""}
+{"prompt": "V2 115 KIAS ", "completion": "Pitch degrees "}
+{"prompt": "10-15 ", "completion": "At Positive Climb Rate Touch Brakes "}
+{"prompt": "", "completion": "Landing Gear "}
+{"prompt": "RETRACT ", "completion": "Trim for climb to maintain Torque "}
+{"prompt": "140 KIAS 65 ", "completion": "Annunciator Lights "}
+{"prompt": "CHECK ", "completion": "Engine Instruments "}
+{"prompt": "Climb-out Checklist", "completion": "Propeller Synchrophaser "}
+{"prompt": "ON ", "completion": "Autopilot and "}
+{"prompt": "CHECK SET ", "completion": "Landing Lights "}
+{"prompt": "OFF ", "completion": "Airspeed Torque "}
+{"prompt": "160-170 KIAS 80 ", "completion": "Propeller "}
+{"prompt": "1600 RPM ", "completion": "Engine Instruments "}
+{"prompt": "MONITOR ", "completion": ""}
+{"prompt": "ATC AS REQUIRED ", "completion": "At Transition Altitude set Altimeter to 1013mb "}
+{"prompt": "Cruise Checklist", "completion": "Accelerate to cruise speed Torque "}
+{"prompt": "220-240 KIAS 85 ", "completion": "Propeller "}
+{"prompt": "1600 RPM ", "completion": "Autofeather "}
+{"prompt": "OFF ", "completion": "Service Ceiling \u2019 ft "}
+{"prompt": "35 000 ", "completion": "Engine+Instruments "}
+{"prompt": "CHECK ", "completion": "Engine Temperatures at cruise cond "}
+{"prompt": "STABILIZE . ", "completion": "Anti-ice "}
+{"prompt": "AS REQUIRED ", "completion": "Fuel Quantity "}
+{"prompt": "CHECK ", "completion": "Radios and "}
+{"prompt": "TUNED SET ", "completion": "Autopilot and "}
+{"prompt": "CHECK SET ", "completion": "Lights as required "}
+{"prompt": "", "completion": "Engine Instruments "}
+{"prompt": "CHECK ", "completion": "Page "}
+{"prompt": "Descent Checklist", "completion": "Atis/Airport Information "}
+{"prompt": "CHECK ", "completion": "Altimeter "}
+{"prompt": "CHECK ", "completion": "Radios "}
+{"prompt": "SET ", "completion": "Autofeather "}
+{"prompt": "ARM ", "completion": "Descent Speed Torque "}
+{"prompt": "180 KIAS 15 ", "completion": "Propeller "}
+{"prompt": "1600 RPM ", "completion": "Flaps "}
+{"prompt": "CHECK UP ", "completion": "Landing Gear "}
+{"prompt": "CHECK UP ", "completion": "Fuel Balance "}
+{"prompt": "CHECK ", "completion": "At Transition Altitude reset Altimeter to local "}
+{"prompt": "( FL180 ) ", "completion": "Check Weather Flight Services "}
+{"prompt": "Approach Checklist", "completion": "Localizer Level Flight "}
+{"prompt": ": ", "completion": "Landing Lights "}
+{"prompt": "ON ", "completion": "Autofeather "}
+{"prompt": "VERIFY ARMED ", "completion": "Propeller "}
+{"prompt": "HIGH RPM ", "completion": "Fuel Cond Lever "}
+{"prompt": ". FULL ", "completion": "Anti-ice "}
+{"prompt": "AS REQUIRED ", "completion": "Speed Establish Torque "}
+{"prompt": ": 150 KIAS 25 ", "completion": "Flaps "}
+{"prompt": "SET APPR ", "completion": "Speed Establish Torque "}
+{"prompt": ": 130 KIAS 35 ", "completion": "Landing Gear "}
+{"prompt": "DOWN ", "completion": "Turning toward runway set flaps "}
+{"prompt": ": FULL DOWN ", "completion": "Final Glideslope Descent "}
+{"prompt": ": ", "completion": "Speed Establish Torque "}
+{"prompt": ": 105 KIAS 20 ", "completion": "Parking Brake "}
+{"prompt": "Landing Checklist", "completion": "Landing Gear "}
+{"prompt": "CHECK DOWN , 3 GREEN ", "completion": "Autopilot "}
+{"prompt": "OFF ", "completion": "Landing Speed "}
+{"prompt": "100 KIAS ", "completion": "Touchdown "}
+{"prompt": "MAIN WHEELS FIRST ", "completion": "Landing Roll "}
+{"prompt": "LOWER NOSE WHEEL ", "completion": "After touchdown Apply Reverse Thrust at "}
+{"prompt": ", ", "completion": "kts Cancel Reverse Thrust "}
+{"prompt": "50 : ", "completion": "Page "}
